@@ -1,5 +1,6 @@
 import Graveyards from "./Components/ui/Graveyards";
 import Khundis from "./Components/ui/Khundis";
+import Services from "./Components/ui/Services";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <section>
         <Graveyards />
         <Khundis />
+        <Services />
       </section>
     </div>
   );
