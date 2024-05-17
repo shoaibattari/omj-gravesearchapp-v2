@@ -1,5 +1,6 @@
 import React from "react";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
+
 import GraveyardItem from "@/app/database/typeGraveyard";
 import Graveyards from "@/app/Components/ui/Graveyards";
 import Khundis from "@/app/Components/ui/Khundis";

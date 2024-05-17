@@ -5,6 +5,7 @@ import { graveyardDatabase } from "@/app/database/graveDatabase";
 import GraveyardItem from "@/app/database/typeGraveyard";
 import Card from "@/app/Components/ui/Card";
 import khundiNamesArray from "@/app/database/Khundis";
+import Graveyards from "@/app/Components/ui/Graveyards";
 
 interface Props {
   params: { grave: string };
@@ -15,7 +16,6 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
   const [searchTermKhundi, setSearchTermKhundi] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(true);
   const [filteredData, setFilteredData] = useState<GraveyardItem[]>([]);
-
 
   useEffect(() => {
     const fetchData = async () => {
@@ -31,6 +31,7 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
         setLoading(false);
       }, 800);
     };
+
 
     fetchData();
   }, [params.grave, searchTermName, searchTermKhundi]);
@@ -75,13 +76,14 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
         <LoadingUI />
       ) : filteredData.length === 0 ? (
         <p className="text-center md:text-7xl font-extrabold text-emerald-600 uppercase h-svh">
-        No matching records found.....
-      </p>
+          No matching records found.....
+        </p>
       ) : (
-        <div className="md:grid md:grid-col-3">
+        <div className="md:grid md:grid-col-3 ">
           <Card filteredData={filteredData} />
         </div>
       )}
+      <Graveyards />
     </main>
   );
 };

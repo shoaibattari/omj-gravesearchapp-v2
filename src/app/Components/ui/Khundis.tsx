@@ -4,6 +4,7 @@ import Link from "next/link";
 import NumberIncrementer from "./NumberIncrementer";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
 
+
 function Khundis() {
   return (
     <div>

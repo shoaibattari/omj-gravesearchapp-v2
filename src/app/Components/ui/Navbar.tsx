@@ -21,8 +21,8 @@ const Navbar = () => {
     {
       id: 3,
       name: "Developer",
-      link: "/developer",
-    }
+      link: "https://shoaibmemon.vercel.app/",
+    },
   ];
 
   return (

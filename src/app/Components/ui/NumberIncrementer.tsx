@@ -7,7 +7,7 @@ const NumberIncrementer = ({ stopNumber }: { stopNumber: number }) => {
   useEffect(() => {
     const interval = setInterval(() => {
       setCount((prevNumber) => {
-        const nextNumber = prevNumber + 3;
+        const nextNumber = prevNumber + stopNumber / 200;
         if (nextNumber >= stopNumber) {
           clearInterval(interval);
           return stopNumber;
@@ -21,7 +21,7 @@ const NumberIncrementer = ({ stopNumber }: { stopNumber: number }) => {
 
   return (
     <div className="text-center text-4xl font-bold">
-      {count.toLocaleString()}
+      {Math.round(count).toLocaleString()}
     </div>
   );
 };

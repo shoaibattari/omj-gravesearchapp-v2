@@ -2,8 +2,10 @@
 import React, { useState, useEffect } from "react";
 import LoadingUI from "@/app/Components/ui/LoadingUi";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
+
 import GraveyardItem from "@/app/database/typeGraveyard";
 import Card from "@/app/Components/ui/Card";
+import Khundis from "@/app/Components/ui/Khundis";
 
 interface Props {
   params: { khundi: string };
@@ -85,6 +87,7 @@ const KhundiPage: React.FC<Props> = ({ params }) => {
       ) : (
         <Card filteredData={filteredData} />
       )}
+      <Khundis />
     </main>
   );
 };

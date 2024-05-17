@@ -3,6 +3,7 @@ import Link from "next/link";
 import NumberIncrementer from "./NumberIncrementer";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
 
+
 const links = [
   {
     id: 2,
