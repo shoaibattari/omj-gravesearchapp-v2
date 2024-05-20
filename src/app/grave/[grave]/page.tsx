@@ -63,7 +63,7 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
           onChange={handleSearchKhundiChange}
           className="focus:bg-emerald-100 hover:bg-emerald-100 cursor-pointer  mt-2 md:mt-0 p-1 border border-emerald-600 rounded-md mr-2 w-full md:w-auto text-2xl text-emerald-600 "
         >
-          <option value="">All Khundi</option>
+          <option value="">Select Khundi</option>
           {khundiNamesArray.map((khundi) => (
             <option key={khundi} value={khundi}>
               {khundi}

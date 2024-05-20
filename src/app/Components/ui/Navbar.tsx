@@ -19,6 +19,11 @@ const Navbar = () => {
       link: "/categories",
     },
     {
+      id: 4,
+      name: "Our Cabinet",
+      link: "/communityMembers",
+    },
+    {
       id: 3,
       name: "Developer",
       link: "https://shoaibmemon.vercel.app/",
