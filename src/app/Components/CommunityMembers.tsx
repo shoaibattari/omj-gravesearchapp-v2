@@ -24,7 +24,7 @@ const CommunityMembers: React.FC = () => {
               >
                 <div className="grid items-center justify-center cursor-pointer  ">
                   <Image
-                    src="/profile-pic-male.jpg"
+                    src={`/${member.image}.jpg`}
                     width={110}
                     height={70}
                     alt={member.name}
@@ -66,7 +66,7 @@ const CommunityMembers: React.FC = () => {
               >
                 <div className="grid items-center justify-center cursor-pointer  ">
                   <Image
-                    src="/profile-pic-male.jpg"
+                     src={`/${member.image}.jpg`}
                     width={110}
                     height={70}
                     alt={member.name}
@@ -107,7 +107,7 @@ const CommunityMembers: React.FC = () => {
               >
                 <div className="grid items-center justify-center cursor-pointer  ">
                   <Image
-                    src="/profile-pic-male.jpg"
+                    src={`/${member.image}.jpg`}
                     width={110}
                     height={70}
                     alt={member.name}

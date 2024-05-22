@@ -13,7 +13,7 @@ interface Props {
 
 const GraveyardPage: React.FC<Props> = ({ params }) => {
   const [searchTermName, setSearchTermName] = useState<string>("");
-  const [searchTermKhundi, setSearchTermKhundi] = useState<string>("");
+  const [searchTermKhundi, setSearchTermKhundi] = useState<string>("KATH");
   const [loading, setLoading] = useState<boolean>(true);
   const [filteredData, setFilteredData] = useState<GraveyardItem[]>([]);
 
@@ -45,10 +45,10 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
   };
 
   return (
-    <main className="min-h-svh py-12">
-      <h1 className="bg-emerald-400 uppercase text-gray-200 text-2xl md:text-5xl font-extrabold text-center divide-x hidden md:h-20">
+    <main className="min-h-svh ">
+      {/* <h1 className="bg-emerald-400 uppercase text-gray-200 text-2xl md:text-5xl font-extrabold text-center divide-x hidden md:h-20">
         {params.grave} Graveyard List
-      </h1>
+      </h1> */}
 
       <div className="mb-4 md:flex md:justify-center m-2">
         <input
@@ -63,7 +63,7 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
           onChange={handleSearchKhundiChange}
           className="focus:bg-emerald-100 hover:bg-emerald-100 cursor-pointer  mt-2 md:mt-0 p-1 border border-emerald-600 rounded-md mr-2 w-full md:w-auto text-2xl text-emerald-600 "
         >
-          <option value="">Select Khundi</option>
+          <option value="">All Khundi</option>
           {khundiNamesArray.map((khundi) => (
             <option key={khundi} value={khundi}>
               {khundi}
