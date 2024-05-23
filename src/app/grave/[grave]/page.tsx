@@ -13,7 +13,7 @@ interface Props {
 
 const GraveyardPage: React.FC<Props> = ({ params }) => {
   const [searchTermName, setSearchTermName] = useState<string>("");
-  const [searchTermKhundi, setSearchTermKhundi] = useState<string>("KATH");
+  const [searchTermKhundi, setSearchTermKhundi] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(true);
   const [filteredData, setFilteredData] = useState<GraveyardItem[]>([]);
 

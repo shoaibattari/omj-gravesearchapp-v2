@@ -1,7 +1,11 @@
 // components/CommunityMembers.tsx
 import icon from "@/app/../../public/whatsaap.jpeg";
 import React from "react";
-import { cabinetMembers,electedBoardMembers,cooptedBoardMembers } from "../database/communityMembers";
+import {
+  cabinetMembers,
+  electedBoardMembers,
+  cooptedBoardMembers,
+} from "../database/communityMembers";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -64,13 +68,13 @@ const CommunityMembers: React.FC = () => {
                 key={index}
                 className="bg-emerald-600 rounded-3xl border-b border-gray-100 p-6 text-center sm:border-0 text-emerald-800 uppercase font-bold italic hover:scale-105"
               >
-                <div className="grid items-center justify-center cursor-pointer  ">
+                <div className="grid items-center justify-center cursor-pointer h-36   ">
                   <Image
-                     src={`/${member.image}.jpg`}
+                    src={`/cabinet/${member.image}.jpg`}
                     width={110}
                     height={70}
                     alt={member.name}
-                    className=" rounded-full"
+                    className=" rounded-full "
                   />
                 </div>
                 <h4 className="text-lg text-gray-100 leading-6 font-extrabold h-12">
@@ -105,9 +109,9 @@ const CommunityMembers: React.FC = () => {
                 key={index}
                 className="bg-emerald-600 rounded-3xl border-b border-gray-100 p-6 text-center sm:border-0 text-emerald-800 uppercase font-bold italic hover:scale-105"
               >
-                <div className="grid items-center justify-center cursor-pointer  ">
+                <div className="grid items-center justify-center cursor-pointer h-36  ">
                   <Image
-                    src={`/${member.image}.jpg`}
+                    src={`/cabinet/${member.image}.jpg`}
                     width={110}
                     height={70}
                     alt={member.name}

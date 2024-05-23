@@ -14,9 +14,9 @@ function Card({ filteredData }: Props) {
         <Link key={d.GraveNo} href={`/graveyard/${d.GraveNo}`}>
           <motion.div
             key={d.Name}
-            initial={{ opacity: 0, y: 100 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5 }}
+            initial={{ opacity: 0, x:20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 0.3 }}
             whileHover={{ scale: 1.15 }}
             whileTap={{ scale: 0.95 }}
             className={`${
