@@ -32,7 +32,6 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
       }, 800);
     };
 
-
     fetchData();
   }, [params.grave, searchTermName, searchTermKhundi]);
 

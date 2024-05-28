@@ -13,15 +13,19 @@ const Navbar = () => {
       name: "Home",
       link: "/",
     },
-    {
-      id: 2,
-      name: "Categories",
-      link: "/categories",
-    },
+    // {
+    //   id: 2,
+    //   name: "Categories",
+    //   link: "/categories",
+    // },
     {
       id: 4,
       name: "Our Cabinet",
       link: "/communityMembers",
+    },{
+      id: 5,
+      name: "History",
+      link: "/history",
     },
     {
       id: 3,
@@ -44,7 +48,7 @@ const Navbar = () => {
         {links.map(({ id, name, link }) => (
           <li
             key={id}
-            className="nav-links px-4 cursor-pointer font-extrabold  text-2xl text-gray-50 hover:scale-125 hover:text-gray-200 duration-200 link-underline"
+            className="nav-links px-4 cursor-pointer font-semibold  text-2xl text-gray-50 hover:scale-105 hover:text-gray-200 duration-200 link-underline"
           >
             <Link href={link}>{name}</Link>
           </li>
@@ -63,7 +67,7 @@ const Navbar = () => {
           {links.map(({ id, name, link }) => (
             <li
               key={id}
-              className="px-4 cursor-pointer py-6 text-4xl font-extrabold text-gray-100 hover:scale-125 hover:text-gray-600 duration-200"
+              className="px-4 cursor-pointer py-6 text-4xl font-semibold text-gray-100 hover:scale-125 hover:text-gray-600 duration-200"
             >
               <Link onClick={() => setNav(!nav)} href={link}>
                 {name}
