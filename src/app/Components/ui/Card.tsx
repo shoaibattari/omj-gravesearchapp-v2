@@ -11,7 +11,7 @@ function Card({ filteredData }: Props) {
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2 md:gap-10 px-4 cursor-pointer">
       {filteredData.map((d, index) => (
-        <Link key={d.GraveNo} href={`/graveyard/${d.GraveNo}`}>
+        <Link key={d.GraveNo} href={`/grave/${d.GraveNo}`}>
           <motion.div
             key={d.Name}
             initial={{ opacity: 0, x:20 }}

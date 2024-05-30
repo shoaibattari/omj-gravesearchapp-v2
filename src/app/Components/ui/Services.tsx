@@ -33,7 +33,7 @@ const Services: React.FC = () => {
             >
               <div className="grid items-center justify-center cursor-pointer h-full">
                 <Image
-                  src={`${service.img}.png`}
+                  src={`/services${service.img}.png`}
                   width={110}
                   height={70}
                   alt={service.title}

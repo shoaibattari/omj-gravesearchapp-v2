@@ -13,11 +13,16 @@ const Navbar = () => {
       name: "Home",
       link: "/",
     },
-    // {
-    //   id: 2,
-    //   name: "Categories",
-    //   link: "/categories",
-    // },
+    {
+      id: 2,
+      name: "Graveyards",
+      link: "/categories/Graveyards",
+    },
+    {
+      id: 6,
+      name: "Khundis",
+      link: "/categories/Khundis",
+    },
     {
       id: 4,
       name: "Our Cabinet",
@@ -35,9 +40,9 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="max-w-8xl mx-auto flex justify-between sticky top-0 items-center w-full h-20 px-1 md:px-4 bg-emerald-600   ">
+    <div className="max-w-8xl mx-auto flex justify-between sticky top-0 items-center w-full h-10 px-1 md:px-4 bg-emerald-600   ">
       <div className="">
-        <h1 className="text-2xl font-extrabold md:text-3xl font-signature ml-2 md:ml-6 text-gray-50 hover:scale-105 hover:text-gray-100 ">
+        <h1 className="text-2xl font-bold md:text-1xl font-signature ml-2 md:ml-6 text-gray-50 hover:scale-105 hover:text-gray-100 ">
           <Link href="/" target="_blank">
             OMJ GRAVEYARD
           </Link>
@@ -48,7 +53,7 @@ const Navbar = () => {
         {links.map(({ id, name, link }) => (
           <li
             key={id}
-            className="nav-links px-4 cursor-pointer font-semibold  text-2xl text-gray-50 hover:scale-105 hover:text-gray-200 duration-200 link-underline"
+            className="nav-links px-4 cursor-pointer font-semibold  text-1xl text-gray-50 hover:scale-105 hover:text-gray-200 duration-200 link-underline"
           >
             <Link href={link}>{name}</Link>
           </li>
@@ -67,7 +72,7 @@ const Navbar = () => {
           {links.map(({ id, name, link }) => (
             <li
               key={id}
-              className="px-4 cursor-pointer py-6 text-4xl font-semibold text-gray-100 hover:scale-125 hover:text-gray-600 duration-200"
+              className="px-4 cursor-pointer p-3 text-2xl font-semibold text-gray-100 hover:scale-125 hover:text-gray-600 duration-200"
             >
               <Link onClick={() => setNav(!nav)} href={link}>
                 {name}

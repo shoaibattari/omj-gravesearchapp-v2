@@ -1,19 +1,19 @@
 "use client";
 import React, { useState, useEffect, ChangeEvent } from "react";
-import LoadingUI from "@/app/Components/ui/LoadingUi";
-import { graveyardDatabase } from "@/app/database/graveDatabase";
-import GraveyardItem from "@/app/database/typeGraveyard";
-import Card from "@/app/Components/ui/Card";
-import khundiNamesArray from "@/app/database/Khundis";
-import Graveyards from "@/app/Components/ui/Graveyards";
+import LoadingUI from "../../Components/ui/LoadingUi";
+import { graveyardDatabase } from "../../database/graveDatabase";
+import GraveyardItem from "../../database/typeGraveyard";
+import Card from "../../Components/ui/Card";
+import khundiNamesArray from "../../database/Khundis";
+import Graveyards from "../../Components/ui/Graveyards";
 
 interface Props {
-  params: { grave: string };
+  params: { graveyard: string };
 }
 
 const GraveyardPage: React.FC<Props> = ({ params }) => {
   const [searchTermName, setSearchTermName] = useState<string>("");
-  const [searchTermKhundi, setSearchTermKhundi] = useState<string>("");
+  const [searchTermKhundi, setSearchTermKhundi] = useState<string>("KATH");
   const [loading, setLoading] = useState<boolean>(true);
   const [filteredData, setFilteredData] = useState<GraveyardItem[]>([]);
 
@@ -23,7 +23,7 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
       setTimeout(() => {
         const filteredItems = graveyardDatabase.filter(
           (item: GraveyardItem) =>
-            item.Graveyard === params.grave &&
+            item.Graveyard === params.graveyard &&
             item.Name.toLowerCase().includes(searchTermName.toLowerCase()) &&
             (searchTermKhundi === "" || item.KHUNDI === searchTermKhundi)
         );
@@ -33,7 +33,7 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
     };
 
     fetchData();
-  }, [params.grave, searchTermName, searchTermKhundi]);
+  }, [params.graveyard, searchTermName, searchTermKhundi]);
 
   const handleSearchNameChange = (e: ChangeEvent<HTMLInputElement>) => {
     setSearchTermName(e.target.value);

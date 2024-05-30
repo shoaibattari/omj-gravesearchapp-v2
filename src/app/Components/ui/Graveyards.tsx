@@ -1,29 +1,29 @@
 import React from "react";
 import Link from "next/link";
-import NumberIncrementer from "./NumberIncrementer";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
+import NumberIncrementer from "./NumberIncrementer";
 
 
 const links = [
   {
     id: 2,
     name: "hubriver1",
-    link: "/grave/hubriver1",
+    link: "/graveyard/hubriver1",
   },
   {
     id: 3,
     name: "hubriver2",
-    link: "/grave/hubriver2",
+    link: "/graveyard/hubriver2",
   },
   {
     id: 4,
     name: "saaditown",
-    link: "/grave/saaditown",
+    link: "/graveyard/saaditown",
   },
   {
     id: 5,
     name: "mewashah",
-    link: "/grave/mewashah",
+    link: "/graveyard/mewashah",
   },
 ];
 export default function Graveyards() {

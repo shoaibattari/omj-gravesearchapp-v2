@@ -1,7 +1,7 @@
 import React from "react";
 import khundiNamesArray  from "../../database/Khundis";
 import Link from "next/link";
-import NumberIncrementer from "./NumberIncrementer";
+import NumberIncrementer from "../ui/NumberIncrementer";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
 
 

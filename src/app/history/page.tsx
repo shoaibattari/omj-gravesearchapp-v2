@@ -22,20 +22,20 @@ const MemonCommunity: React.FC = () => {
             <span className="text-gray-700">Introduction of</span> Memon Nation
           </h2>
           <p className="text-gray-700 md:px-6">
-            Memon is a courageous and unique position holder mercantile
-            community.It participates actively in all the social activities such
-            as, health, education and cultural programs. When the forefather of
-            this community embarrassed with Islam, they were named as “Momin”
-            and with the passage of time, they are now known as “Memon”. The
-            conversion of the religion resulted to a lot of calamities, which
-            were faced with utmost courage, and boldness to overcome calamities.
-            They had to migrate from their homeland. God accepted these trials
-            for the sake of Islam and He bestowed blessings and such a high
-            capabilities that Memon community is prominent in all walks of
-            modern life. On the occasion of the presentation of history of early
-            period of the community, we are highly thankful of God that we are
+          Memon is a courageous and unique position holder mercantile
+            community. It participates actively in all the social activities
+            such as health, education, and cultural programs. When the forefathers of
+            this community embraced Islam, they were named as &ldquo;Momin&rdquo;,
+            and with the passage of time, they are now known as &ldquo;Memon&rdquo;. The
+            conversion of the religion resulted in a lot of calamities, which
+            were faced with utmost courage, and boldness to overcome. They had to
+            migrate from their homeland. God accepted these trials for the sake of Islam
+            and He bestowed blessings and such high
+            capabilities that the Memon community is prominent in all walks of
+            modern life. On the occasion of the presentation of history of the early
+            period of the community, we are highly thankful to God that we are
             part and parcel of this community.
-          </p>
+            </p>
         </section>
 
         <section>
@@ -44,12 +44,12 @@ const MemonCommunity: React.FC = () => {
             Sacrifices
           </h2>
           <p className="text-gray-700 md:px-6">
-            The Memon community is a distinguished and courageous mercantile
+          The Memon community is a distinguished and courageous mercantile
             group known for its active participation in social activities,
             including health, education, and cultural programs. Their roots
             trace back to the Hindu Lohana caste, which converted to Islam in
-            the early 15th century. Initially called "Momin," they later became
-            known as "Memon." Despite facing numerous challenges and having to
+            the early 15th century. Initially called &ldquo;Momin&rdquo;, they later became
+            known as &ldquo;Memon&rdquo;. Despite facing numerous challenges and having to
             migrate, the Memons have thrived and become prominent in various
             fields of modern life.
           </p>
@@ -125,9 +125,9 @@ const MemonCommunity: React.FC = () => {
               <span className="text-gray-700">Sindhi</span> Memons
             </h3>
             <p className="text-gray-700 md:px-6">
-              Those who remained in Sindh spread across southern towns,
-              primarily engaging in agriculture. Despite challenges, Sindhi
-              Memons have made significant contributions to the region's economy
+              Those who remained in Sindh spread across southern towns
+              primarily engaging in agriculture. Despite challenges Sindhi
+              Memons have made significant contributions to the region&apos;s economy
               and society.
             </p>
           </div>
@@ -163,7 +163,7 @@ const MemonCommunity: React.FC = () => {
               industry.
             </li>
             <li className="text-gray-700">
-              <strong className="text-gray-800">Bombay (Mumbai):</strong>{" "}
+              <strong className="text-gray-800">Bombay (Mumbai):</strong>
               Another major center with a substantial Memon community involved
               in trade and business.
             </li>
