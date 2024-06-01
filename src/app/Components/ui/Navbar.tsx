@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
@@ -12,6 +13,11 @@ const Navbar = () => {
       id: 1,
       name: "Home",
       link: "/",
+    },
+    {
+      id: 7,
+      name: "Graveyard-Commitee",
+      link: "/graveyardcommittee",
     },
     {
       id: 2,
@@ -27,7 +33,8 @@ const Navbar = () => {
       id: 4,
       name: "Our Cabinet",
       link: "/communityMembers",
-    },{
+    },
+    {
       id: 5,
       name: "History",
       link: "/history",
@@ -40,9 +47,9 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="max-w-8xl mx-auto flex justify-between sticky top-0 items-center w-full h-10 px-1 md:px-4 bg-emerald-600   ">
+    <div className="max-w-8xl mx-auto flex justify-between sticky top-0 items-center w-full h-20 md:h-10 px-1 md:px-4 bg-emerald-600   ">
       <div className="">
-        <h1 className="text-2xl font-bold md:text-1xl font-signature ml-2 md:ml-6 text-gray-50 hover:scale-105 hover:text-gray-100 ">
+        <h1 className="text-2xl font-bold md:text-1xl font-signature ml-2 md:ml-6 text-gray-50  hover:text-gray-100 ">
           <Link href="/" target="_blank">
             OMJ GRAVEYARD
           </Link>
@@ -68,7 +75,7 @@ const Navbar = () => {
       </div>
 
       {nav && (
-        <ul className="flex flex-col justify-center items-center absolute  top-0 left-0 w-full min-h-screen bg-emerald-600 ">
+        <ul className="flex flex-col  justify-center items-start absolute  top-0 left-0 w-full min-h-screen bg-emerald-600 ">
           {links.map(({ id, name, link }) => (
             <li
               key={id}

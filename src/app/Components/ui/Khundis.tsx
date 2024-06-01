@@ -18,7 +18,7 @@ function Khundis() {
       <div className=" inset-0 h-1/2 bg-gray-50" />
       <div className=" max-w-7xl mx-auto px-1  sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto mt-3 ">
-          <ul className="gap-2 md:gap-gap-4 text-xs md:text-lg font-bold italic grid grid-cols-2 lg:grid-cols-5  ">
+          <ul className="gap-2 md:gap-gap-4 text-xs md:text-lg font-bold italic grid grid-cols-2 lg:grid-cols-3  ">
             {khundiNamesArray.map((khundi, index) => (
               <li key={khundi}>
                 <Link href={`/khundi/${khundi}`}>

@@ -3,7 +3,6 @@ import Link from "next/link";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
 import NumberIncrementer from "./NumberIncrementer";
 
-
 const links = [
   {
     id: 2,
@@ -44,7 +43,7 @@ export default function Graveyards() {
             <div className=" inset-0 h-1/2 bg-gray-50" />
             <div className=" max-w-7xl mx-auto  sm:px-6 lg:px-8">
               <div className="max-w-4xl mx-auto">
-                <dl className="gap-2 md:gap-12 px-1  rounded-lg bg-white  grid grid-cols-2 md:grid-cols-4  ">
+                <dl className="gap-2 md:gap-12 px-1  rounded-lg bg-white  grid grid-cols-2 md:grid-cols-  ">
                   {links.map((link, index) => (
                     <Link key={link.id} href={link.link}>
                       <div

@@ -14,7 +14,7 @@ const MemonCommunity: React.FC = () => {
   return (
     <div className="p-6 bg-gray-100">
       <h1 className="text-2xl md:px-6 uppercase md:text-4xl text-center text-emerald-600 rounded-full py-3 font-bold">
-        <span className="text-gray-700">Introduction to the </span> Memon Nation
+        <span className="text-gray-700">History to the </span> Memon Nation
       </h1>
       <div className="space-y-4">
         <section>

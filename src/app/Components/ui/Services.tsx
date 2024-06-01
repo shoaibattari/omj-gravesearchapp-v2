@@ -22,7 +22,7 @@ const Services: React.FC = () => {
   return (
     <div className=" py-12 my-6 bg-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-5xl text-center uppercase md:text-5xl  text-emerald-600 rounded-full py-3   font-bold">
+        <h2 className="text-3xl text-center uppercase md:text-5xl  text-emerald-600 rounded-full md:py-3   font-bold">
           <span className="text-gray-700"> Our </span>Services
         </h2>
         <div className="grid gap-2  grid-cols-2 md:grid-cols-4 ">
@@ -40,7 +40,7 @@ const Services: React.FC = () => {
                   className=" rounded-full"
                 />
               </div>
-              <h3 className="text-lg text-gray-700 leading-6  font-extrabold">
+              <h3 className="text-sm md:text-lg text-gray-700 leading-6  font-extrabold">
                 {service.title}
               </h3>
             </div>
