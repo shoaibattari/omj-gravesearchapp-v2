@@ -36,10 +36,12 @@ const graveyardcommittee: React.FC = () => {
       </h2>
       <div className="">
         <div className="bg-emerald-700 rounded-lg shadow-md p-3 flex items-center justify-center">
-          <img
+          <Image
             src="/graveyardchairman.jpeg"
             alt="barai"
-            className="w-42  h-48 rounded-full mb-4"
+            width={200}
+            height={100}
+            className="w-28 h-28  rounded-full mb-1"
           />
           <div className="mx-3">
             <h2 className="text-1xl md:text-2xl text-gray-100 font-bold mb-2">
@@ -54,11 +56,11 @@ const graveyardcommittee: React.FC = () => {
                 target="blank"
                 className="  font-semibold text-lg text-emerald-700  "
               >
-                <div className="bg-white w-36 hover:bg-gray-100  flex justify-start rounded-lg cursor-pointer ">
+                <div className="bg-white w-28 hover:bg-gray-100  flex justify-start rounded-lg cursor-pointer ">
                   <div>
-                    <Image src={icon} width={35} height={20} alt="icon" />
+                    <Image src={icon} width={22} height={20} alt="icon" />
                   </div>
-                  <div>WHATSAAP </div>
+                  <div className="text-sm">WHATSAAP </div>
                 </div>
               </Link>
             </div>
@@ -68,7 +70,7 @@ const graveyardcommittee: React.FC = () => {
       <hr />
       <section>
         <h2 className="text-2xl text-center uppercase md:text-5xl text-emerald-600  py-3 font-bold">
-          <span className="text-gray-700">Current Committee</span>Members
+          <span className="text-gray-700">Current Committee </span>Members
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-8">
           {currentCommitteeMembers.map((member, index) => (

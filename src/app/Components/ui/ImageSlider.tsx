@@ -23,7 +23,7 @@ const ImageSlider: FC<ImageSliderProps> = ({ images }) => {
     <Swiper
       modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
       spaceBetween={10}
-      slidesPerView={1}
+      slidesPerView={2}
       navigation
       pagination={{ clickable: true }}
       scrollbar={{ draggable: true }}
@@ -37,7 +37,7 @@ const ImageSlider: FC<ImageSliderProps> = ({ images }) => {
             alt={`Slide ${index}`}
             width={15000}
             height={250}
-            className="w-full md:py-12 object-cover"
+            className="w-full pb-6 md:pb-8 object-cover"
           />
         </SwiperSlide>
       ))}
