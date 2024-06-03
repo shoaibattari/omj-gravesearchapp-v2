@@ -14,9 +14,9 @@ export default function Home() {
       <div className=" bg-transparent   p-6 -z-20 ">
         <div className="container mx-auto ">
           <ImageSlider images={images} />
-          <Services />
         </div>
       </div>
+          <Services />
     </section>
   );
 }

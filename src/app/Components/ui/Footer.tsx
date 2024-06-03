@@ -1,5 +1,7 @@
 import Link from "next/link";
 import React from "react";
+import khundiNamesArray from "../../database/Khundis";
+
 import {
   FaFacebook,
   FaWhatsapp,
@@ -11,18 +13,43 @@ import {
 export default function Footer() {
   return (
     <>
-      <div className="  md:px-[48px] py-[16px] text-center bg-green-50 text-emerald-600 ">
-        <span className="text-gray-700 underline underline-offset-4 font-bold">
-          Disclaimer
-        </span>
-        <p className="text-sm p-3 text-gray-700">
-          This app is not official Okhai Memon Graveyard application. It is an
-          independent service created to assist users in accessing graveyard
-          data for personal purposes. For official information and services,
-          please refer to OMJ official channels.
-          <br />
-        </p>
-        <div className="md:flex justify-between ">
+      <div className="  md:px-[48px] py-[16px] px-6  uppercase font-bold bg-emerald-50 ">
+        <div className="">
+        <h2 className="text-2xl text-center uppercase md:text-3xl  text-emerald-600 rounded-full md:py-3   font-bold">
+          <span className="text-gray-700"> USEFULL </span>LINKS
+        </h2>
+        </div>
+        <div className=" grid md:grid-cols-6 grid-cols-2  gap-1 text-emerald-800 pb-2  font-bold">
+          <p className="hover:underline">
+            <Link href={`/categories/Graveyards`}>Graveyards</Link>
+          </p>
+          <p className="hover:underline">
+            <Link href={`/categories/Khundis`}>khundis</Link>
+          </p>
+
+          <p className="hover:underline">
+            <Link href={`/graveyard/hubriver1`}>hubriver1</Link>
+          </p>
+          <p className="hover:underline">
+            <Link href={`/graveyard/hubriver2`}>hubriver2</Link>
+          </p>
+          <p className="hover:underline">
+            <Link href={`/graveyard/saaditown`}>saaditown</Link>
+          </p>
+          <p className="hover:underline">
+            <Link href={`/graveyard/mewashah`}>mewashah</Link>
+          </p>
+
+          {khundiNamesArray.map((khundi, index) => (
+            <span key={khundi}>
+              <p className="hover:underline">
+                <Link href={`/khundi/${khundi}`}>{khundi}</Link>
+              </p>
+            </span>
+          ))}
+        </div>
+
+        <div className="md:flex justify-between text-center text-emerald-800">
           <p className=" font-bold">All Rights Reserved ©</p>
           <div className=" md:flex ">
             <p>App Create And Design By - </p>

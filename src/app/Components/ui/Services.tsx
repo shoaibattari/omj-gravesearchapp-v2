@@ -20,7 +20,7 @@ const services: Service[] = [
 
 const Services: React.FC = () => {
   return (
-    <div className=" py-12 my-6 bg-gray-100">
+    <div className="py-8  bg-gradient-to-r from-emerald-200 to-green-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-3xl text-center uppercase md:text-5xl  text-emerald-600 rounded-full md:py-3   font-bold">
           <span className="text-gray-700"> Our </span>Services

@@ -1,16 +1,15 @@
 import React from "react";
-import khundiNamesArray  from "../../database/Khundis";
+import khundiNamesArray from "../../database/Khundis";
 import Link from "next/link";
 import NumberIncrementer from "../ui/NumberIncrementer";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
 
-
 function Khundis() {
   return (
-    <div>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="max-w-4xl mx-auto text-center">
-          <p className=" text-3xl uppercase md:text-5xl  text-emerald-600 rounded-full py-3   font-bold">
+    <div className="bg-gradient-to-r from-emerald-700 to-green-300 pb-2 ">
+      <div className=" max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
+        <div className="max-w-4xl mx-auto text-center ">
+          <p className=" text-3xl uppercase md:text-5xl   text-white rounded-full py-3   font-bold">
             Khundis Section <span className="text-4xl md:text-5xl">↓</span>
           </p>
         </div>

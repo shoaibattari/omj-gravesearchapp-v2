@@ -23,8 +23,15 @@ const ImageSlider: FC<ImageSliderProps> = ({ images }) => {
     <Swiper
       modules={[Navigation, Pagination, Scrollbar, A11y, Autoplay]}
       spaceBetween={10}
-      slidesPerView={2}
-      navigation
+      breakpoints={{
+        640: {
+          slidesPerView: 2,
+        },
+
+        0: {
+          slidesPerView: 1,
+        },
+      }}
       pagination={{ clickable: true }}
       scrollbar={{ draggable: true }}
       autoplay={{ delay: 3000, disableOnInteraction: false }}
@@ -35,9 +42,9 @@ const ImageSlider: FC<ImageSliderProps> = ({ images }) => {
           <Image
             src={`/slides/${src}.jpeg`}
             alt={`Slide ${index}`}
-            width={15000}
+            width={1500}
             height={250}
-            className="w-full pb-6 md:pb-8 object-cover"
+            className="w-full pb-6 md:pb-8 "
           />
         </SwiperSlide>
       ))}

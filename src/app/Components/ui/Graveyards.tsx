@@ -28,10 +28,10 @@ const links = [
 export default function Graveyards() {
   return (
     <div>
-      <div className=" py-2 ">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto text-center">
-            <p className="text-3xl uppercase md:text-5xl  text-emerald-600 rounded-full py-3   font-bold">
+      <div className=" py-2 bg-gradient-to-r from-emerald-700 to-green-300 h-svh">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
+          <div className=" max-w-4xl mx-auto text-center">
+            <p className="text-3xl uppercase md:text-5xl  text-white rounded-full py-3   font-bold">
               Graveyards Section
               <span className="text-4xl md:text-5xl"> ↓ </span>
             </p>
@@ -43,7 +43,7 @@ export default function Graveyards() {
             <div className=" inset-0 h-1/2 bg-gray-50" />
             <div className=" max-w-7xl mx-auto  sm:px-6 lg:px-8">
               <div className="max-w-4xl mx-auto">
-                <dl className="gap-2 md:gap-12 px-1  rounded-lg bg-white  grid grid-cols-2 md:grid-cols-  ">
+                <dl className="gap-2 md:gap-12 px-1  rounded-lg  grid grid-cols-2 md:grid-cols-  ">
                   {links.map((link, index) => (
                     <Link key={link.id} href={link.link}>
                       <div
