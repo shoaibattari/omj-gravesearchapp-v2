@@ -13,13 +13,13 @@ import {
 export default function Footer() {
   return (
     <>
-      <div className="  md:px-[48px] py-[16px] px-6  uppercase font-bold bg-emerald-50 ">
+      <div className="   md:px-[48px] py-[16px] px-6  uppercase font-bold bg-gradient-to-r from-emerald-600 to-green-400 text-white ">
         <div className="">
-        <h2 className="text-2xl text-center uppercase md:text-3xl  text-emerald-600 rounded-full md:py-3   font-bold">
+        <h2 className="text-2xl text-center uppercase md:text-3xl  text-gray-100 rounded-full md:py-3   font-bold">
           <span className="text-gray-700"> USEFULL </span>LINKS
         </h2>
         </div>
-        <div className=" grid md:grid-cols-6 grid-cols-2  gap-1 text-emerald-800 pb-2  font-bold">
+        <div className=" grid md:grid-cols-6 grid-cols-2  gap-1 text-center text-white pb-2  font-bold">
           <p className="hover:underline">
             <Link href={`/categories/Graveyards`}>Graveyards</Link>
           </p>
@@ -39,7 +39,6 @@ export default function Footer() {
           <p className="hover:underline">
             <Link href={`/graveyard/mewashah`}>mewashah</Link>
           </p>
-
           {khundiNamesArray.map((khundi, index) => (
             <span key={khundi}>
               <p className="hover:underline">
@@ -49,14 +48,14 @@ export default function Footer() {
           ))}
         </div>
 
-        <div className="md:flex justify-between text-center text-emerald-800">
+        <div className="md:flex justify-between mt-3 text-center text-gray-900">
           <p className=" font-bold">All Rights Reserved ©</p>
           <div className=" md:flex ">
             <p>App Create And Design By - </p>
             <Link
               href="https://shoaibmemon.vercel.app/"
               target="_blank"
-              className="hover:text-emerald-600 font-bold"
+              className="hover:text-gray-50 font-bold"
             >
               <p>Shoaib Abdul Sattar Khosa</p>
             </Link>
@@ -69,7 +68,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaFacebook className="  text-emerald-700 hover:text-emerald-800 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
+                <FaFacebook className="  text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
               </Link>
 
               <Link
@@ -78,7 +77,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaWhatsapp className="  text-emerald-700 hover:text-emerald-800 text-3xl hover:text-4xl delay-105 duration-100 ease-linear" />
+                <FaWhatsapp className="  text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear" />
               </Link>
 
               <Link
@@ -87,7 +86,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaTwitter className="   text-emerald-700 hover:text-emerald-800 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
+                <FaTwitter className="   text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
               </Link>
 
               <Link
@@ -96,7 +95,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaLinkedin className="   text-emerald-700 hover:text-emerald-800 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
+                <FaLinkedin className="   text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
               </Link>
 
               <Link
@@ -105,7 +104,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaYoutube className="   text-emerald-700 hover:text-emerald-800 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
+                <FaYoutube className="   text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
               </Link>
             </div>
           </div>

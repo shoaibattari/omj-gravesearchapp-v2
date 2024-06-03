@@ -72,7 +72,7 @@ const graveyardcommittee: React.FC = () => {
         <h2 className="text-2xl text-center uppercase md:text-5xl text-emerald-600  py-3 font-bold">
           <span className="text-gray-700">Current Committee </span>Members
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-8">
+        <div className="mb-2 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-4">
           {currentCommitteeMembers.map((member, index) => (
             <div
               key={index}
