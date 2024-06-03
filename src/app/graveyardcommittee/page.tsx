@@ -3,12 +3,20 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import icon from "../../../public/whatsaap.jpeg";
+import { Metadata } from "next";
 interface CommitteeMember {
   name: string;
   title?: string;
   description?: string;
   imageUrl?: string;
 }
+
+
+export const metadata: Metadata = {
+  title: "Graveyard Commitee members",
+  description:
+    "Okhai Memon Jamat Graverad Commitee With members details",
+};
 
 const currentCommitteeMembers: CommitteeMember[] = [
   { name: "Mr. Muhammad Affan Hashim Darbar", title: "Senior Vice Chairman" },

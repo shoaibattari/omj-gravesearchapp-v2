@@ -1,6 +1,14 @@
 import React from "react";
 import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
+import { Metadata } from "next";
+
+
+export const metadata: Metadata = {
+  title: "Categories",
+  description:
+    "this app is a OMJ graveyard searching app for Okhai memon jamat all graveyard data searching app for name wise, khundi wise and graveyard wise ",
+};
 
 // Define a type for the section components
 type SectionComponentType = React.ComponentType<any>;
