@@ -4,6 +4,8 @@ import { graveyardDatabase } from "../../database/graveDatabase";
 import GraveyardItem from "../../database/typeGraveyard";
 import Graveyards from "../../Components/ui/Graveyards";
 import Khundis from "../../Components/ui/Khundis";
+import ImageSlider from "@/app/Components/ui/ImageSlider";
+import { images } from "@/app/page";
 
 interface Props {
   params: {
@@ -46,6 +48,8 @@ const GiveName: React.FC<Props> = ({ params }) => {
           <div></div>
         )}
       </div>
+      <ImageSlider images={images} />
+
       <Graveyards />
       <Khundis />
     </main>

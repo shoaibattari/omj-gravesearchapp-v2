@@ -4,6 +4,8 @@ import Link from "next/link";
 import React from "react";
 import icon from "../../../public/whatsaap.jpeg";
 import { Metadata } from "next";
+import ImageSlider from "../Components/ui/ImageSlider";
+import { images } from "../page";
 interface CommitteeMember {
   name: string;
   title?: string;
@@ -98,6 +100,8 @@ const graveyardcommittee: React.FC = () => {
           ))}
         </div>
       </section>
+      <ImageSlider images={images} />
+
     </div>
   );
 };

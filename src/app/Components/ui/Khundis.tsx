@@ -3,6 +3,8 @@ import khundiNamesArray from "../../database/Khundis";
 import Link from "next/link";
 import NumberIncrementer from "../ui/NumberIncrementer";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
+import ImageSlider from "./ImageSlider";
+import { images } from "@/app/page";
 
 function Khundis() {
   return (
@@ -17,12 +19,12 @@ function Khundis() {
       <div className=" inset-0 h-1/2 bg-gray-50" />
       <div className=" max-w-7xl mx-auto px-1  sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto mt-3 ">
-          <ul className="gap-2 md:gap-gap-4 text-xs md:text-lg font-bold italic grid grid-cols-2 lg:grid-cols-3  ">
+          <ul className="gap-1 text-xs md:text-lg font-bold italic grid grid-cols-2 lg:grid-cols-3  ">
             {khundiNamesArray.map((khundi, index) => (
               <li key={khundi}>
                 <Link href={`/khundi/${khundi}`}>
                   <div
-                    className={`border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r ${
+                    className={`mb-2 border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r ${
                       index % 12 === 0
                         ? "bg-emerald-100 text-emerald-800 hover:bg-emerald-200 hover:text-emerald-900 uppercase font-bold italic"
                         : index % 12 === 1
@@ -63,11 +65,15 @@ function Khundis() {
           </ul>
         </div>
       </div>
+      <div className="container mx-auto ">
+          <ImageSlider images={images} />
+        </div>
     </div>
   );
 }
 const KhundiDataCounter = graveyardDatabase.filter(
   (item) => item.KHUNDI === "KATH"
 ).length;
+<ImageSlider images={images} />
 
 export default Khundis;

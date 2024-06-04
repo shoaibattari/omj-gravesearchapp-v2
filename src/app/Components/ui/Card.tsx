@@ -17,7 +17,7 @@ function Card({ filteredData }: Props) {
             initial={{ opacity: 0, x:20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.3 }}
-            whileHover={{ scale: 1.15 }}
+            whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className={`${
               index % 2 === 0

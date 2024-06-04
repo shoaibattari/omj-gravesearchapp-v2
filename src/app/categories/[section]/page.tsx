@@ -42,6 +42,7 @@ export default function SectionPage({
   return (
     <div className=" min-h-screen">
       <SectionComponent />
+      
     </div>
   );
 }

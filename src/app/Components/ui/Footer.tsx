@@ -19,7 +19,7 @@ export default function Footer() {
           <span className="text-gray-700"> USEFULL </span>LINKS
         </h2>
         </div>
-        <div className=" grid md:grid-cols-6 grid-cols-2  gap-1 text-center text-white pb-2  font-bold">
+        <div className=" grid md:grid-cols-6 grid-cols-2  gap-1  text-white pb-2  font-bold">
           <p className="hover:underline">
             <Link href={`/categories/Graveyards`}>Graveyards</Link>
           </p>
