@@ -2,6 +2,7 @@ import React from "react";
 import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
+import ImageCrusol from "@/app/Components/ui/imageSlider/ImageCrusol";
 
 
 export const metadata: Metadata = {
@@ -42,6 +43,7 @@ export default function SectionPage({
   return (
     <div className=" min-h-screen">
       <SectionComponent />
+      <ImageCrusol />
       
     </div>
   );

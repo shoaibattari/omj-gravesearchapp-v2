@@ -3,8 +3,6 @@ import khundiNamesArray from "../../database/Khundis";
 import Link from "next/link";
 import NumberIncrementer from "../ui/NumberIncrementer";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
-import ImageSlider from "./ImageSlider";
-import { images } from "@/app/page";
 
 function Khundis() {
   return (
@@ -65,15 +63,12 @@ function Khundis() {
           </ul>
         </div>
       </div>
-      <div className="container mx-auto ">
-          <ImageSlider images={images} />
-        </div>
+     
     </div>
   );
 }
 const KhundiDataCounter = graveyardDatabase.filter(
   (item) => item.KHUNDI === "KATH"
 ).length;
-<ImageSlider images={images} />
 
 export default Khundis;

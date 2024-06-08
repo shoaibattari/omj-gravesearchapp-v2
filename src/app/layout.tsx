@@ -3,6 +3,7 @@ import "./globals.css";
 import Navbar from "./Components/ui/Navbar";
 import Footer from "./Components/ui/Footer";
 import { Metadata } from "next";
+import { AuthProvider } from "../app/context/AuthContext";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,7 +22,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="  max-w-[1520px] mx-auto p-0 m-0 bg-gradient-to-r from-emerald-100 to-green-50">
         <Navbar />
-        {children}
+        <AuthProvider>{children}</AuthProvider>
         <Footer />
       </body>
     </html>

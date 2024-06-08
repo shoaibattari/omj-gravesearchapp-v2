@@ -36,8 +36,8 @@ const Navbar = () => {
     },
     {
       id: 5,
-      name: "History",
-      link: "/history",
+      name: "admin",
+      link: "/admin",
     },
     {
       id: 3,

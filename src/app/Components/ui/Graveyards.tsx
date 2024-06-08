@@ -2,8 +2,6 @@ import React from "react";
 import Link from "next/link";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
 import NumberIncrementer from "./NumberIncrementer";
-import ImageSlider from "./ImageSlider";
-import { images } from "@/app/page";
 
 const links = [
   {
@@ -81,7 +79,7 @@ export default function Graveyards() {
         </div>
       </div>
 
-      <ImageSlider images={images} />
+     
     </div>
   );
 }
