@@ -2,7 +2,6 @@ import React from "react";
 import Link from "next/link";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
 import NumberIncrementer from "./NumberIncrementer";
-
 const links = [
   {
     id: 2,
@@ -25,6 +24,8 @@ const links = [
     link: "/graveyard/mewashah",
   },
 ];
+
+
 export default function Graveyards() {
   return (
     <div>

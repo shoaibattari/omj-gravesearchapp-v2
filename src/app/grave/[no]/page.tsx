@@ -14,7 +14,7 @@ interface Props {
 const GiveName: React.FC<Props> = ({ params }) => {
   const { no } = params;
 
-  const filteredData = graveyardDatabase.find((grave) => grave.GraveNo === no);
+  const filteredData = graveyardDatabase.find((grave) => grave.Id === no);
 
   return (
     <main>
