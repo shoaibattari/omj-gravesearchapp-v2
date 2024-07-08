@@ -14,11 +14,7 @@ const Navbar = () => {
       name: "Home",
       link: "/",
     },
-    {
-      id: 7,
-      name: "Graveyard-Commitee",
-      link: "/graveyardcommittee",
-    },
+
     {
       id: 2,
       name: "Graveyards",
@@ -30,15 +26,20 @@ const Navbar = () => {
       link: "/categories/Khundis",
     },
     {
+      id: 7,
+      name: "Graveyard-Commitee",
+      link: "/graveyardcommittee",
+    },
+    {
       id: 4,
       name: "Our Cabinet",
       link: "/communityMembers",
     },
-    {
-      id: 5,
-      name: "admin",
-      link: "/admin",
-    },
+    // {
+    //   id: 5,
+    //   name: "admin",
+    //   link: "/admin",
+    // },
     {
       id: 3,
       name: "Developer",

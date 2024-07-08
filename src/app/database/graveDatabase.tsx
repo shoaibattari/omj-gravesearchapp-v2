@@ -366,7 +366,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "46",
     Graveyard: "hubriver1",
     Name: "ZULEKHA BAI W/O OMER",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "17-Aug-83",
   },
   {
@@ -2678,7 +2678,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "335",
     Graveyard: "hubriver1",
     Name: "Not Found",
-    KHUNDI: "-",
+    KHUNDI: "BLANK",
     DOD: "Not Found",
   },
   {
@@ -3110,7 +3110,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "389",
     Graveyard: "hubriver1",
     Name: "AHMED HAJI HUSSAIN",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "2-Feb-87",
   },
   {
@@ -3278,7 +3278,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "410",
     Graveyard: "hubriver1",
     Name: "HAJI ISMAIL S/O HAJI QASIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "27-Mar-87",
   },
   {
@@ -3334,7 +3334,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "417",
     Graveyard: "hubriver1",
     Name: "HAWA BAI W/O MUHAMMAD IBRAHIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "16-Apr-87",
   },
   {
@@ -3358,7 +3358,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "420",
     Graveyard: "hubriver1",
     Name: "Not issued",
-    KHUNDI: "-",
+    KHUNDI: "BLANK",
     DOD: "Not Found",
   },
   {
@@ -3926,7 +3926,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "491",
     Graveyard: "hubriver1",
     Name: "HAJI ISMAIL HAJI HUSSAIN",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "15-Dec-87",
   },
   {
@@ -5886,7 +5886,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "736",
     Graveyard: "hubriver1",
     Name: "HAJI DAWOOD S/O WALI MUHAMMAD",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "13-Jun-90",
   },
   {
@@ -5974,7 +5974,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "747",
     Graveyard: "hubriver1",
     Name: "Not Found",
-    KHUNDI: "-",
+    KHUNDI: "BLANK",
     DOD: "Not Found",
   },
   {
@@ -7894,7 +7894,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "987",
     Graveyard: "hubriver1",
     Name: "HAJI SULEMAN H.QASIM RAWAKA WALA",
-    KHUNDI: "-",
+    KHUNDI: "BLANK",
     DOD: "22-Jul-92",
   },
   {
@@ -7990,7 +7990,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "999",
     Graveyard: "hubriver1",
     Name: "DOULAT ABDUL SATTAR",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "31-Aug-92",
   },
   {
@@ -8494,7 +8494,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1062",
     Graveyard: "hubriver1",
     Name: "KHATIJA ABDUL GHANI",
-    KHUNDI: "-",
+    KHUNDI: "BLANK",
     DOD: "17-Feb-93",
   },
   {
@@ -9022,7 +9022,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1128",
     Graveyard: "hubriver1",
     Name: "HAJIANI HANIFA W/O ADAM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "31-Aug-93",
   },
   {
@@ -9462,7 +9462,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1183",
     Graveyard: "hubriver1",
     Name: "AISHA W/O YOUSUF ADAM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "3-Jan-94",
   },
   {
@@ -11334,7 +11334,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1417",
     Graveyard: "hubriver1",
     Name: "KULSOOM W/O USMAN QASIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "25.08.1995",
   },
   {
@@ -12390,7 +12390,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1549",
     Graveyard: "hubriver1",
     Name: "HAJI MUHAMMAD HAJI HUSSAN",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "10-Jul-96",
   },
   {
@@ -13582,7 +13582,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1698",
     Graveyard: "hubriver1",
     Name: "FATIMA D/O HAJI HUSSAIN",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "12-Aug-97",
   },
   {
@@ -16502,7 +16502,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2063",
     Graveyard: "hubriver1",
     Name: "KHADIJA HAJIANI W/O ISMAIL",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "25-Apr-00",
   },
   {
@@ -16710,7 +16710,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2089",
     Graveyard: "hubriver1",
     Name: "ALI MUHAMMAD",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "17-Jun-00",
   },
   {
@@ -17142,7 +17142,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2143",
     Graveyard: "hubriver1",
     Name: "JUMMA QASIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "7-Nov-00",
   },
   {
@@ -17710,7 +17710,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2214",
     Graveyard: "hubriver1",
     Name: "HALEEMA BAI W/O ABDUL RAHIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "31-Mar-01",
   },
   {
@@ -20030,7 +20030,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2504",
     Graveyard: "hubriver1",
     Name: "HAJIANI BILQUES HUSSAIN TAR MOHD",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "21-Mar-03",
   },
   {
@@ -22262,7 +22262,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2783",
     Graveyard: "hubriver1",
     Name: "USMAN HAJI ISMAIL",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "31-Dec-04",
   },
   {
@@ -22686,7 +22686,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2836",
     Graveyard: "hubriver1",
     Name: "KHATIJA BAI NAMORI",
-    KHUNDI: "-",
+    KHUNDI: "BLANK",
     DOD: "24-Apr-05",
   },
   {
@@ -23478,7 +23478,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2935",
     Graveyard: "hubriver1",
     Name: "HAJIANI FATIMA W/O H. TAHIR MUHAMMAD",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "22-Dec-05",
   },
   {
@@ -23974,7 +23974,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "2997",
     Graveyard: "hubriver1",
     Name: "SHER BANO W/O A. SATTAR",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "6-May-06",
   },
   {
@@ -24414,7 +24414,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "3052",
     Graveyard: "hubriver1",
     Name: "ZARINA W/O YOUSUF",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "18-Aug-06",
   },
   {
@@ -25406,7 +25406,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "3176",
     Graveyard: "hubriver1",
     Name: "SAKINA W/O LAT USMAN HAJI ISMAIL",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "20-Apr-07",
   },
   {
@@ -25854,7 +25854,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "3232",
     Graveyard: "hubriver1",
     Name: "MUHAMMAD ASLAM ABDUL KARIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "7-Jul-07",
   },
   {
@@ -26662,7 +26662,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "3333",
     Graveyard: "hubriver1",
     Name: "HAJIANI RAHEEMA BAI W/O H. ISMAIL",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "5-Jan-08",
   },
   {
@@ -31302,7 +31302,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "3913",
     Graveyard: "hubriver1",
     Name: "MUHAMMAD QASIM ABDUL LATIF",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "31-Jan-11",
   },
   {
@@ -32078,7 +32078,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4010",
     Graveyard: "hubriver1",
     Name: "HAWA BAI W/O ALI MUHAMMAD",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "11-Jul-11",
   },
   {
@@ -33558,7 +33558,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4195",
     Graveyard: "hubriver1",
     Name: "SORIYA W/O ABDUL GHANI",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "6-Jun-12",
   },
   {
@@ -35230,7 +35230,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4404",
     Graveyard: "hubriver1",
     Name: "SHER BANO W/O ABDUL RASHEED",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "29-May-13",
   },
   {
@@ -35310,7 +35310,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4414",
     Graveyard: "hubriver1",
     Name: "RABIA HAJINAI W/O HAJI DAWOOD",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "14-Jun-13",
   },
   {
@@ -36158,7 +36158,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4520",
     Graveyard: "hubriver1",
     Name: "HAJI MUHAMMAD DAWOOD HAJI M. HUSSAIN",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "2-Dec-13",
   },
   {
@@ -36870,7 +36870,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4609",
     Graveyard: "hubriver1",
     Name: "HAJI ABDUL REHMAN HAJI MUHAMMAD",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "14-Apr-14",
   },
   {
@@ -37670,7 +37670,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4709",
     Graveyard: "hubriver1",
     Name: "ABDUL LATIF QASIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "9-Nov-14",
   },
   {
@@ -38238,7 +38238,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4780",
     Graveyard: "hubriver1",
     Name: "RASHEEDA ABDUL GHANI ADAM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "17-Feb-15",
   },
   {
@@ -38350,7 +38350,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4794",
     Graveyard: "hubriver1",
     Name: "WALI QASIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "24-Mar-15",
   },
   {
@@ -38702,7 +38702,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4838",
     Graveyard: "hubriver1",
     Name: "SHOUKAT ALI ABDUL KARIM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "31-May-15",
   },
   {
@@ -38710,7 +38710,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4839",
     Graveyard: "hubriver1",
     Name: "ABDUL SATTAR MUHAMMAD YOUSUF",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "2-Jun-15",
   },
   {
@@ -39502,7 +39502,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4938",
     Graveyard: "hubriver1",
     Name: "ZUBAIDA M.YOUSUF",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "15-Sep-15",
   },
   {
@@ -39558,7 +39558,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "4945",
     Graveyard: "hubriver1",
     Name: "Not issued",
-    KHUNDI: "-",
+    KHUNDI: "BLANK",
     DOD: "Not Found",
   },
   {
@@ -41150,7 +41150,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "5144",
     Graveyard: "hubriver1",
     Name: "YOUSUF ADAM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "3-Sep-16",
   },
   {
@@ -41774,7 +41774,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "5222",
     Graveyard: "hubriver1",
     Name: "MUHAMMAD IBRAHIM ADAM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "21-Dec-16",
   },
   {
@@ -42774,7 +42774,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "5347",
     Graveyard: "hubriver1",
     Name: "SHAHZAD A.GHANI",
-    KHUNDI: "-",
+    KHUNDI: "BLANK",
     DOD: "3-Jun-17",
   },
   {
@@ -43046,7 +43046,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "5381",
     Graveyard: "hubriver1",
     Name: "A.AZIZ H.YOUSUF",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "19-Aug-17",
   },
   {
@@ -45726,7 +45726,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "5716",
     Graveyard: "hubriver1",
     Name: "KHAIRON W/O JUMMMA MULLARA",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "4-Mar-19",
   },
   {
@@ -47198,7 +47198,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "5900",
     Graveyard: "hubriver1",
     Name: "HAJI TAR MUHAMMAD ISMAIL",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "19-Jan-20",
   },
   {
@@ -49454,7 +49454,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "6182",
     Graveyard: "hubriver1",
     Name: "KHATIJA W/O SALEH MUHAMMAD",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "1-Nov-20",
   },
   {
@@ -49470,7 +49470,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "6184",
     Graveyard: "hubriver1",
     Name: "SALEH MUHAMMAD S/O MUHAMMAD ADAM",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "4-Nov-20",
   },
   {
@@ -49510,7 +49510,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "6189",
     Graveyard: "hubriver1",
     Name: "MUHAMMAD ASLAM HAJI MUHAMMAD MOLAI",
-    KHUNDI: "MULARA",
+    KHUNDI: "MULLARA",
     DOD: "11-Nov-20",
   },
   {
@@ -56014,7 +56014,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "420",
     Graveyard: "hubriver2",
     Name: "blank",
-    KHUNDI: "blank",
+    KHUNDI: "BLANK",
     DOD: "blank",
   },
   {
@@ -56254,7 +56254,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "450",
     Graveyard: "hubriver2",
     Name: "ABDUL AZIZ SALEH MUHAMMAD",
-    KHUNDI: "MUHAMMADI",
+    KHUNDI: "MOHAMMADI",
     DOD: "21-Nov-23",
   },
   {
@@ -57486,7 +57486,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57518,7 +57518,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "5",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57558,7 +57558,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "10",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57566,7 +57566,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "11",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57574,7 +57574,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "12",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57622,7 +57622,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "18",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57646,7 +57646,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "21",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57662,7 +57662,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "23",
     Graveyard: "mewashah",
     Name: "Tayyab Ishaq",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57742,7 +57742,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "33",
     Graveyard: "mewashah",
     Name: "Abdul Kareem Ahmed Moosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57750,7 +57750,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "34",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57774,7 +57774,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "37",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57822,7 +57822,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "43",
     Graveyard: "mewashah",
     Name: "Suleman Haji Noor Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57830,7 +57830,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "44",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57854,7 +57854,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "47",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57862,7 +57862,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "48",
     Graveyard: "mewashah",
     Name: "A. Ghani",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57902,7 +57902,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "53",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57910,7 +57910,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "54",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57958,7 +57958,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "60",
     Graveyard: "mewashah",
     Name: "A. Karim Qasim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -57974,7 +57974,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "62",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58006,7 +58006,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "66",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58046,7 +58046,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "71",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58062,7 +58062,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "73",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58070,7 +58070,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "74",
     Graveyard: "mewashah",
     Name: "Hajiani Ayesha Bai Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58086,7 +58086,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "76",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58102,7 +58102,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "78",
     Graveyard: "mewashah",
     Name: "Hanifa Bai Ahmed Muhammad Dosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58126,7 +58126,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "81",
     Graveyard: "mewashah",
     Name: "Ali Muhammad Qasim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58142,7 +58142,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "83",
     Graveyard: "mewashah",
     Name: "Ayesha Bai Moosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58182,7 +58182,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "88",
     Graveyard: "mewashah",
     Name: "Hajiani Baya Bai Essa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58222,7 +58222,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "93",
     Graveyard: "mewashah",
     Name: "Zulekha Bai Essa Haji Arbi Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58238,7 +58238,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "95",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58254,7 +58254,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "97",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58286,7 +58286,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "101",
     Graveyard: "mewashah",
     Name: "Hajiani Sara Bai Tayyab",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58310,7 +58310,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "104",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58334,7 +58334,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "107",
     Graveyard: "mewashah",
     Name: "Sara Bai Yousuf",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58342,7 +58342,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "108",
     Graveyard: "mewashah",
     Name: "Khamisa Haji Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58366,7 +58366,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "111",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58374,7 +58374,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "112",
     Graveyard: "mewashah",
     Name: "Hussain Jumma Kalari",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58422,7 +58422,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "118",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58470,7 +58470,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "124",
     Graveyard: "mewashah",
     Name: "Saleh Muhammad Suleman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58478,7 +58478,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "125",
     Graveyard: "mewashah",
     Name: "Tahir Muhammad Qasim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58494,7 +58494,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "127",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58502,7 +58502,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "128",
     Graveyard: "mewashah",
     Name: "Marium Yousuf Boota",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58542,7 +58542,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "133",
     Graveyard: "mewashah",
     Name: "Haji Qasim Haji Haroon Namoori",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58574,7 +58574,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "137",
     Graveyard: "mewashah",
     Name: "Aysha Bai Haji Moosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58598,7 +58598,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "140",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58606,7 +58606,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "141",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58614,7 +58614,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "142",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58646,7 +58646,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "146",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58702,7 +58702,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "153",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58742,7 +58742,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "158",
     Graveyard: "mewashah",
     Name: "Usman Yousuf",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58766,7 +58766,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "161",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58774,7 +58774,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "162",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58782,7 +58782,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "163",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58854,7 +58854,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "172",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58878,7 +58878,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "175",
     Graveyard: "mewashah",
     Name: "Noor Bai Saleh Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58926,7 +58926,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "181",
     Graveyard: "mewashah",
     Name: "Haji Usman DaDA",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58942,7 +58942,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "183",
     Graveyard: "mewashah",
     Name: "Zulekha Bai Noor Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58958,7 +58958,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "185",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58974,7 +58974,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "187",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -58990,7 +58990,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "189",
     Graveyard: "mewashah",
     Name: "Noor Bai Ahmed",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59062,7 +59062,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "198",
     Graveyard: "mewashah",
     Name: "Ibrahim Ali Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59078,7 +59078,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "200",
     Graveyard: "mewashah",
     Name: "Hoor Bai d/o Doosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59142,7 +59142,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "208",
     Graveyard: "mewashah",
     Name: "Ismail Aakoo",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59150,7 +59150,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "209",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59158,7 +59158,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "210",
     Graveyard: "mewashah",
     Name: "Hawa Bai Khillan A.Ghani Hashim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59166,7 +59166,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "211",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59174,7 +59174,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "212",
     Graveyard: "mewashah",
     Name: "Fatima Usman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59190,7 +59190,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "214",
     Graveyard: "mewashah",
     Name: "Ibrahim Noor Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59206,7 +59206,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "216",
     Graveyard: "mewashah",
     Name: "A. Ghani Haji Muhammad Lafa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59214,7 +59214,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "217",
     Graveyard: "mewashah",
     Name: "Hanifa Haji Muhammad Usman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59222,7 +59222,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "218",
     Graveyard: "mewashah",
     Name: "Ruqayya Bai Haji Haji Essa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59238,7 +59238,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "220",
     Graveyard: "mewashah",
     Name: "Yousuf Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59286,7 +59286,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "226",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59310,7 +59310,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "229",
     Graveyard: "mewashah",
     Name: "Zubaida Bai Abdul Sattar Tayyab Basray wala",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59350,7 +59350,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "234",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59358,7 +59358,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "235",
     Graveyard: "mewashah",
     Name: "Sara Bai Tar Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59390,7 +59390,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "239",
     Graveyard: "mewashah",
     Name: "Hoor Bai Abdullah Moosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59398,7 +59398,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "240",
     Graveyard: "mewashah",
     Name: "Ayesha Bai Ismail",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59446,7 +59446,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "246",
     Graveyard: "mewashah",
     Name: "Rahima Bai Tayyab",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59478,7 +59478,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "250",
     Graveyard: "mewashah",
     Name: "Ali Muhammad Master Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59510,7 +59510,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "254",
     Graveyard: "mewashah",
     Name: "Amna Hajiani Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59518,7 +59518,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "255",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59646,7 +59646,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "271",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59662,7 +59662,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "273",
     Graveyard: "mewashah",
     Name: "Amina Bai Natha",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59710,7 +59710,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "279",
     Graveyard: "mewashah",
     Name: "Khadija Bai Ilyas",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59734,7 +59734,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "282",
     Graveyard: "mewashah",
     Name: "Moosa Jumma",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59798,7 +59798,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "290",
     Graveyard: "mewashah",
     Name: "Aysha Moosa Aakoo",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59822,7 +59822,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "293",
     Graveyard: "mewashah",
     Name: "Hajiani Khadija Bai Yousuf",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59854,7 +59854,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "297",
     Graveyard: "mewashah",
     Name: "Hawa Bai Ladha",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59918,7 +59918,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "305",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -59958,7 +59958,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "310",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60006,7 +60006,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "316",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60014,7 +60014,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "317",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60022,7 +60022,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "318",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60054,7 +60054,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "322",
     Graveyard: "mewashah",
     Name: "Humaira Bai H.Adam Arbi",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60062,7 +60062,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "323",
     Graveyard: "mewashah",
     Name: "Khatija d/o Jumma Hussain",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60070,7 +60070,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "324",
     Graveyard: "mewashah",
     Name: "Haji Qasim Jumma",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60078,7 +60078,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "325",
     Graveyard: "mewashah",
     Name: "Noor Muhammad Haji Ibrahim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60094,7 +60094,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "327",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60134,7 +60134,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "332",
     Graveyard: "mewashah",
     Name: "Hajiani Noor Bai w/o Abdul Ghani",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60166,7 +60166,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "336",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60174,7 +60174,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "337",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60190,7 +60190,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "339",
     Graveyard: "mewashah",
     Name: "Halima Bai Qasim Dad Wala",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60198,7 +60198,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "340",
     Graveyard: "mewashah",
     Name: "Sara Bai Ibrahim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60238,7 +60238,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "345",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60246,7 +60246,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "346",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60326,7 +60326,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "356",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60342,7 +60342,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "358",
     Graveyard: "mewashah",
     Name: "Rehmat Wali Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60374,7 +60374,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "362",
     Graveyard: "mewashah",
     Name: "Haji Suleman Usman Basray Wala",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60382,7 +60382,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "363",
     Graveyard: "mewashah",
     Name: "Ruqayya Bai Ayub Haji Yaqoob",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60398,7 +60398,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "365",
     Graveyard: "mewashah",
     Name: "Yousuf",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60406,7 +60406,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "366",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60462,7 +60462,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "373",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60486,7 +60486,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "376",
     Graveyard: "mewashah",
     Name: "Haji Qasim Haji HussainDawarka Wala",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60502,7 +60502,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "378",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60510,7 +60510,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "379",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60558,7 +60558,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "385",
     Graveyard: "mewashah",
     Name: "Tayyeb Arbi",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60574,7 +60574,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "387",
     Graveyard: "mewashah",
     Name: "Ayesha Bai w/o Suleman Ayub",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60582,7 +60582,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "388",
     Graveyard: "mewashah",
     Name: "Bibi d/o Hashim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60590,7 +60590,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "389",
     Graveyard: "mewashah",
     Name: "Muhammad Iqbal Ayub",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60606,7 +60606,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "391",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60614,7 +60614,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "392",
     Graveyard: "mewashah",
     Name: "Haji Rehmatullah",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60630,7 +60630,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "394",
     Graveyard: "mewashah",
     Name: "Hanifa w/o Yousuf Qasim Namori",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60654,7 +60654,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "397",
     Graveyard: "mewashah",
     Name: "Zulekha Bai w/o Ahmed Arbi",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60710,7 +60710,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "404",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60718,7 +60718,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "405",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60734,7 +60734,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "407",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60822,7 +60822,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "418",
     Graveyard: "mewashah",
     Name: "Zulekha Bai Abdul Latif (Arath)",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60838,7 +60838,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "420",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60862,7 +60862,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "423",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60878,7 +60878,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "425",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60894,7 +60894,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "427",
     Graveyard: "mewashah",
     Name: "Sarah Bai w/o Haji Tahir Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60902,7 +60902,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "428",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60910,7 +60910,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "429",
     Graveyard: "mewashah",
     Name: "Fatima w/o Moosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60918,7 +60918,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "430",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60966,7 +60966,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "436",
     Graveyard: "mewashah",
     Name: "Ruqaya Bai Ishaq",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -60982,7 +60982,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "438",
     Graveyard: "mewashah",
     Name: "Hajiani Hawa w/o Tahir Muhammad Yousuf",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61006,7 +61006,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "441",
     Graveyard: "mewashah",
     Name: "Fatima Hajiani Ishaq",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61014,7 +61014,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "442",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61030,7 +61030,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "444",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61270,7 +61270,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "474",
     Graveyard: "mewashah",
     Name: "Hawa Bai w/o Siddiq Jan Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61286,7 +61286,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "476",
     Graveyard: "mewashah",
     Name: "Jan Muhammad Tahir. M. Dad Wala",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61326,7 +61326,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "481",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61462,7 +61462,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "498",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61470,7 +61470,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "499",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61502,7 +61502,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "503",
     Graveyard: "mewashah",
     Name: "Haroon Hashim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61510,7 +61510,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "504",
     Graveyard: "mewashah",
     Name: "Rabia Bai Adam",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61574,7 +61574,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "512",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61582,7 +61582,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "513",
     Graveyard: "mewashah",
     Name: "Ayesha Ismail",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61590,7 +61590,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "514",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61654,7 +61654,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "522",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61822,7 +61822,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "543",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61950,7 +61950,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "559",
     Graveyard: "mewashah",
     Name: "Farida d/o Noor Muhammad Khilan",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61990,7 +61990,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "564",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -61998,7 +61998,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "565",
     Graveyard: "mewashah",
     Name: "Hajiani Ameena Qasim Namori (Basre Wala)",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62022,7 +62022,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "568",
     Graveyard: "mewashah",
     Name: "Hajiani Marium Bai w/o Haji Essa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62062,7 +62062,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "573",
     Graveyard: "mewashah",
     Name: "Suleman Haji Memon",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62094,7 +62094,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "577",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62126,7 +62126,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "581",
     Graveyard: "mewashah",
     Name: "Hanifa w/o Ismail Ibrahim Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62142,7 +62142,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "583",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62174,7 +62174,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "587",
     Graveyard: "mewashah",
     Name: "Hussain Soomar Murad",
-    KHUNDI: "MURAD",
+    KHUNDI: "MOORAD",
     DOD: "Blank",
   },
   {
@@ -62286,7 +62286,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "601",
     Graveyard: "mewashah",
     Name: "Hanifa Bai Ahmed",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62310,7 +62310,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "604",
     Graveyard: "mewashah",
     Name: "Ameean Hussain W/o Abdul Sattar",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62318,7 +62318,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "605",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62326,7 +62326,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "606",
     Graveyard: "mewashah",
     Name: "Rahima Bai D/o Khamisa Ghani",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62334,7 +62334,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "607",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62350,7 +62350,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "609",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62374,7 +62374,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "612",
     Graveyard: "mewashah",
     Name: "Khatija Bai W/o Yousuf Arbi",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62422,7 +62422,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "618",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62462,7 +62462,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "623",
     Graveyard: "mewashah",
     Name: "Fatima Bai W/o Ibrahim Ishaq",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62486,7 +62486,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "626",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62510,7 +62510,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "629",
     Graveyard: "mewashah",
     Name: "Noor Bai W/o Hussain",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62558,7 +62558,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "635",
     Graveyard: "mewashah",
     Name: "Muhammad Siddiq Abdul Sattar",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62566,7 +62566,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "636",
     Graveyard: "mewashah",
     Name: "Haji Yousuf Qasim ( Basrewala )",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62574,7 +62574,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "637",
     Graveyard: "mewashah",
     Name: "Doulat Bano D/o Yousuf Muhammadi",
-    KHUNDI: "MUHAMMADI",
+    KHUNDI: "MOHAMMADI",
     DOD: "Blank",
   },
   {
@@ -62606,7 +62606,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "641",
     Graveyard: "mewashah",
     Name: "Abdul Karim Usman Lafa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62614,7 +62614,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "642",
     Graveyard: "mewashah",
     Name: "Suleman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62622,7 +62622,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "643",
     Graveyard: "mewashah",
     Name: "Abdul Karim Haji Essa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62630,7 +62630,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "644",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62638,7 +62638,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "645",
     Graveyard: "mewashah",
     Name: "Jumma Moosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62694,7 +62694,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "652",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62734,7 +62734,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "657",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62774,7 +62774,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "662",
     Graveyard: "mewashah",
     Name: "Abdul Ghani Ismail",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62862,7 +62862,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "673",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -62870,7 +62870,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "674",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63038,7 +63038,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "695",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63046,7 +63046,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "696",
     Graveyard: "mewashah",
     Name: "Hanifa Bai Khilaan",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63054,7 +63054,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "697",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63062,7 +63062,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "698",
     Graveyard: "mewashah",
     Name: "Hoor Bai W/o Ali Kalari",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63070,7 +63070,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "699",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63078,7 +63078,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "700",
     Graveyard: "mewashah",
     Name: "Ayesha Bai Abdul Shakoor",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63086,7 +63086,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "701",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63102,7 +63102,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "703",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63110,7 +63110,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "704",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63174,7 +63174,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "712",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63190,7 +63190,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "714",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63246,7 +63246,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "721",
     Graveyard: "mewashah",
     Name: "Ibrahim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63254,7 +63254,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "722",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63342,7 +63342,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "733",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63366,7 +63366,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "736",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63398,7 +63398,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "740",
     Graveyard: "mewashah",
     Name: "Hajiyani Noor Bai W/o Haji Yousuf Poonja",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63422,7 +63422,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "743",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63558,7 +63558,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "760",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63678,7 +63678,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "775",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63702,7 +63702,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "778",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63766,7 +63766,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "786",
     Graveyard: "mewashah",
     Name: "Hajiyani Haleema W/o Wali Muhammad Laffa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63790,7 +63790,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "789",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63838,7 +63838,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "795",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63862,7 +63862,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "798",
     Graveyard: "mewashah",
     Name: "Khatija Bai Usman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63886,7 +63886,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "801",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63902,7 +63902,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "803",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -63910,7 +63910,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "804",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64038,7 +64038,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "820",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64054,7 +64054,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "822",
     Graveyard: "mewashah",
     Name: "Adam",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64190,7 +64190,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "839",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64206,7 +64206,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "841",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64278,7 +64278,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "850",
     Graveyard: "mewashah",
     Name: "Haji Yousuf Ladha",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64302,7 +64302,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "853",
     Graveyard: "mewashah",
     Name: "Zulekha Bai W/o Arbi Khilan",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64310,7 +64310,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "854",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64382,7 +64382,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "863",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64518,7 +64518,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "880",
     Graveyard: "mewashah",
     Name: "Hussain Hassan",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64550,7 +64550,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "884",
     Graveyard: "mewashah",
     Name: "Fatima Bai W/o Haji Tayyab",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64718,7 +64718,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "905",
     Graveyard: "mewashah",
     Name: "Hanifa W/o Moosa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64758,7 +64758,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "910",
     Graveyard: "mewashah",
     Name: "Rahima Bai",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64774,7 +64774,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "912",
     Graveyard: "mewashah",
     Name: "Haji Hashim Khamisa Aarya",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64798,7 +64798,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "915",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64830,7 +64830,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "919",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64862,7 +64862,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "923",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -64918,7 +64918,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "930",
     Graveyard: "mewashah",
     Name: "Hajiyani Safoora Bai W/o Haji Yousuf",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65062,7 +65062,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "948",
     Graveyard: "mewashah",
     Name: "Haji Tayyab Sualeh Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65094,7 +65094,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "952",
     Graveyard: "mewashah",
     Name: "Moosa Haji Ali Muhammad Laffa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65118,7 +65118,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "955",
     Graveyard: "mewashah",
     Name: "Sara Bai D/o Haji Wali Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65334,7 +65334,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "982",
     Graveyard: "mewashah",
     Name: "Hoor Bai W/o Suleman Ali Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65422,7 +65422,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "993",
     Graveyard: "mewashah",
     Name: "Haleema Bai Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65494,7 +65494,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1002",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65574,7 +65574,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1012",
     Graveyard: "mewashah",
     Name: "Hajiyani Hoor Bai",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65598,7 +65598,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1015",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65606,7 +65606,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1016",
     Graveyard: "mewashah",
     Name: "Ahmed Haji Ibrahim Laffa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65622,7 +65622,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1018",
     Graveyard: "mewashah",
     Name: "Tar Muhammad Ismail Kabari",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65630,7 +65630,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1019",
     Graveyard: "mewashah",
     Name: "Sakeena Bai Abdul Karim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65670,7 +65670,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1024",
     Graveyard: "mewashah",
     Name: "Haji Sualeh Muhammad Haji Yaqoob",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65694,7 +65694,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1027",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65766,7 +65766,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1036",
     Graveyard: "mewashah",
     Name: "Abdul Karim Ahmed",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65790,7 +65790,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1039",
     Graveyard: "mewashah",
     Name: "Haji Rehmatullah",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65798,7 +65798,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1040",
     Graveyard: "mewashah",
     Name: "Noor Muhammad Natha",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65806,7 +65806,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1041",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65814,7 +65814,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1042",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65830,7 +65830,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1044",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -65846,7 +65846,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1046",
     Graveyard: "mewashah",
     Name: "Haji Wali Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66030,7 +66030,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1069",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66038,7 +66038,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1070",
     Graveyard: "mewashah",
     Name: "Rabia Bai Tayyab Haji Jumma ( Basraiwala )",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66134,7 +66134,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1082",
     Graveyard: "mewashah",
     Name: "Rabia Suleman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66150,7 +66150,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1084",
     Graveyard: "mewashah",
     Name: "Hajiyani Marium Bai",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66158,7 +66158,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1085",
     Graveyard: "mewashah",
     Name: "Abdul Rehman Wali Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66254,7 +66254,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1097",
     Graveyard: "mewashah",
     Name: "Haji Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66342,7 +66342,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1108",
     Graveyard: "mewashah",
     Name: "Haji Dawood Qasim Namori",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66366,7 +66366,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1111",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66374,7 +66374,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1112",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66470,7 +66470,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1124",
     Graveyard: "mewashah",
     Name: "Haji Ismail",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66494,7 +66494,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1127",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66510,7 +66510,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1129",
     Graveyard: "mewashah",
     Name: "Fatima Bai Muhammad Jumma ( Basraywala )",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66518,7 +66518,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1130",
     Graveyard: "mewashah",
     Name: "Ruqaiya Haji Wali Muhammad Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66590,7 +66590,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1139",
     Graveyard: "mewashah",
     Name: "Tar Muhammad Jainda",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66614,7 +66614,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1142",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66702,7 +66702,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1153",
     Graveyard: "mewashah",
     Name: "Zaibun Nisa Abdul Sattar",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66710,7 +66710,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1154",
     Graveyard: "mewashah",
     Name: "Muhammad Siddiq Namori",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66726,7 +66726,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1156",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66742,7 +66742,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1158",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66758,7 +66758,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1160",
     Graveyard: "mewashah",
     Name: "Abdul Razzak Sualeh Muhammad Laffa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66790,7 +66790,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1164",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66798,7 +66798,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1165",
     Graveyard: "mewashah",
     Name: "Hajiyani Hawa Bai",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66838,7 +66838,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1170",
     Graveyard: "mewashah",
     Name: "Qasim haji Abdul Karim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66862,7 +66862,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1173",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66878,7 +66878,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1175",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66910,7 +66910,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1179",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66942,7 +66942,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1183",
     Graveyard: "mewashah",
     Name: "Hajiyani Sara Bai",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66974,7 +66974,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1187",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66982,7 +66982,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1188",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -66990,7 +66990,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1189",
     Graveyard: "mewashah",
     Name: "Ruqaiya Sualeh Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67030,7 +67030,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1194",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67038,7 +67038,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1195",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67046,7 +67046,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1196",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67054,7 +67054,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1197",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67062,7 +67062,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1198",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67070,7 +67070,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1199",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67174,7 +67174,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1212",
     Graveyard: "mewashah",
     Name: "Hawa Bai W/o Hussain",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67198,7 +67198,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1215",
     Graveyard: "mewashah",
     Name: "Hajiyani Hawa Bai W/o Haji Ismail Jumma Laffa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67342,7 +67342,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1233",
     Graveyard: "mewashah",
     Name: "Fatima Bai W/o Qasim Kalani",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67350,7 +67350,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1234",
     Graveyard: "mewashah",
     Name: "Abdul Khaliq Tar Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67358,7 +67358,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1235",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67398,7 +67398,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1240",
     Graveyard: "mewashah",
     Name: "Zulekha Bai W/o Abdul Ghani Laffa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67526,7 +67526,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1256",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67534,7 +67534,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1257",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67566,7 +67566,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1261",
     Graveyard: "mewashah",
     Name: "Sualeh Muhammad S/o Muhammad Ibrahim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67574,7 +67574,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1262",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67606,7 +67606,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1266",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67646,7 +67646,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1271",
     Graveyard: "mewashah",
     Name: "Abdul Sattar Ahmed Laffa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67662,7 +67662,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1273",
     Graveyard: "mewashah",
     Name: "Ismail",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67678,7 +67678,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1275",
     Graveyard: "mewashah",
     Name: "Humera Bai W/o Essa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67758,7 +67758,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1285",
     Graveyard: "mewashah",
     Name: "Sualeh Muhammad Ismail Kabari",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67766,7 +67766,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1286",
     Graveyard: "mewashah",
     Name: "Hajra Bai W/o Haji Ali Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67774,7 +67774,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1287",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67830,7 +67830,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1294",
     Graveyard: "mewashah",
     Name: "Noor Bai D/o Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67910,7 +67910,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1304",
     Graveyard: "mewashah",
     Name: "Hoor Bai Haji Suleman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67966,7 +67966,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1311",
     Graveyard: "mewashah",
     Name: "Khatija Bai Ali Muhammad Master",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67974,7 +67974,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1312",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67990,7 +67990,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1314",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -67998,7 +67998,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1315",
     Graveyard: "mewashah",
     Name: "Marium Bai Qasim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68014,7 +68014,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1317",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68022,7 +68022,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1318",
     Graveyard: "mewashah",
     Name: "Hoor Bai Hajiani",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68030,7 +68030,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1319",
     Graveyard: "mewashah",
     Name: "Marium Hussain Ishaq Kabari",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68078,7 +68078,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1325",
     Graveyard: "mewashah",
     Name: "Sara Bai",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68086,7 +68086,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1326",
     Graveyard: "mewashah",
     Name: "Qasim Ismail Maraktiya",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68102,7 +68102,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1328",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68110,7 +68110,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1329",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68150,7 +68150,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1334",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68198,7 +68198,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1340",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68278,7 +68278,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1350",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68342,7 +68342,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1358",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68374,7 +68374,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1362",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68390,7 +68390,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1364",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68398,7 +68398,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1365",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68558,7 +68558,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1385",
     Graveyard: "mewashah",
     Name: "Ayesha Bai Ibrahim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68606,7 +68606,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1391",
     Graveyard: "mewashah",
     Name: "Sara Bai Qasim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68774,7 +68774,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1412",
     Graveyard: "mewashah",
     Name: "Suleman Tar M. Kabari",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68806,7 +68806,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1416",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -68910,7 +68910,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1429",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69006,7 +69006,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1441",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69022,7 +69022,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1443",
     Graveyard: "mewashah",
     Name: "M. Iqbal Hashim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69126,7 +69126,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1456",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69174,7 +69174,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1462",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69206,7 +69206,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1466",
     Graveyard: "mewashah",
     Name: "Aisha Hajiani w/o Tahir Muhammad Gadia",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69270,7 +69270,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1474",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69286,7 +69286,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1476",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69302,7 +69302,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1478",
     Graveyard: "mewashah",
     Name: "Hajiani Fatima w/o Haji Khamisa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69358,7 +69358,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1485",
     Graveyard: "mewashah",
     Name: "Zulekha Bai w/o Suleman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69470,7 +69470,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1499",
     Graveyard: "mewashah",
     Name: "Hajiani Zulekha",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69494,7 +69494,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1502",
     Graveyard: "mewashah",
     Name: "M. Siddiq",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69518,7 +69518,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1505",
     Graveyard: "mewashah",
     Name: "Shehrbano w/o Dawood Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69574,7 +69574,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1512",
     Graveyard: "mewashah",
     Name: "Khatija Bai w/o Suleman Khederia",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69590,7 +69590,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1514",
     Graveyard: "mewashah",
     Name: "Sakina Bai Suleman Hussain Lafa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69670,7 +69670,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1524",
     Graveyard: "mewashah",
     Name: "Hajiani Zulekha w/o Haji Rehmatullah",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69694,7 +69694,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1527",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69790,7 +69790,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1539",
     Graveyard: "mewashah",
     Name: "Hajiani Khatija Bai w/o Haji Suleman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -69862,7 +69862,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1548",
     Graveyard: "mewashah",
     Name: "Aisha Bai w/o Ali Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70094,7 +70094,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1577",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70206,7 +70206,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1591",
     Graveyard: "mewashah",
     Name: "Khatija w/o Abdul Latif Kabari",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70230,7 +70230,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1594",
     Graveyard: "mewashah",
     Name: "Dawood Yousuf Kotowal",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70358,7 +70358,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1610",
     Graveyard: "mewashah",
     Name: "Yousuf Suleman",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70398,7 +70398,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1615",
     Graveyard: "mewashah",
     Name: "Hajiani Maium Bai Haji Qasim Dawarkawala",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70478,7 +70478,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1625",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70502,7 +70502,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1628",
     Graveyard: "mewashah",
     Name: "Muhammad Haji Hashim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70630,7 +70630,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1644",
     Graveyard: "mewashah",
     Name: "Zulekha w/o Suleman Surya",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70638,7 +70638,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1645",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70702,7 +70702,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1653",
     Graveyard: "mewashah",
     Name: "Hajiani M. Yousuf Haji M. Hashim",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70718,7 +70718,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1655",
     Graveyard: "mewashah",
     Name: "A. kareem Haji Essa",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70734,7 +70734,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1657",
     Graveyard: "mewashah",
     Name: "Zulekha Noor Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70758,7 +70758,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1660",
     Graveyard: "mewashah",
     Name: "Bibi Rabia Hajiani M. Hussain",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70822,7 +70822,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1668",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70846,7 +70846,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1671",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70918,7 +70918,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "1100 -A",
     Graveyard: "mewashah",
     Name: "Blank",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -70950,7 +70950,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "304 B",
     Graveyard: "mewashah",
     Name: "Jumma Noor Muhammad",
-    KHUNDI: "Blank",
+    KHUNDI: "BLANK",
     DOD: "Blank",
   },
   {
@@ -71214,7 +71214,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "A30",
     Graveyard: "saaditown",
     Name: "BLANK",
-    KHUNDI: "blank",
+    KHUNDI: "BLANK",
     DOD: "blank",
   },
   {
@@ -71222,7 +71222,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "A31",
     Graveyard: "saaditown",
     Name: "ZULEKHA W/O HAJI BASRAY WALA",
-    KHUNDI: "blank",
+    KHUNDI: "BLANK",
     DOD: "4-Dec-16",
   },
   {
@@ -71254,7 +71254,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "A35",
     Graveyard: "saaditown",
     Name: "SANOBAR W/O ABDUL SAMAD (BASRAY WALA)",
-    KHUNDI: "blank",
+    KHUNDI: "BLANK",
     DOD: "17-Jul-18",
   },
   {
@@ -71310,7 +71310,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "A42",
     Graveyard: "saaditown",
     Name: "BLANK",
-    KHUNDI: "blank",
+    KHUNDI: "BLANK",
     DOD: "blank",
   },
   {
@@ -71326,7 +71326,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     GraveNo: "A44",
     Graveyard: "saaditown",
     Name: "FATIMA",
-    KHUNDI: "blank",
+    KHUNDI: "BLANK",
     DOD: "21-Oct-21",
   },
   {

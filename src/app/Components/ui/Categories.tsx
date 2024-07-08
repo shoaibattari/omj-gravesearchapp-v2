@@ -1,6 +1,8 @@
 import Link from "next/link";
 import NumberIncrementer from "./NumberIncrementer";
 import { graveyardDatabase } from "@/app/database/graveDatabase";
+import khundiNamesArray from "@/app/database/Khundis";
+import GraveyardNamesArray from "@/app/database/Graveyards";
 
 const Categories = () => {
   const linkClasses = [
@@ -21,7 +23,7 @@ const Categories = () => {
             Find the resting place of your loved ones with ease and accuracy.
           </p>
           <div className=" text-2xl center justify-center items-center px-1 rounded-md shadow-xl shadow-emerald-500 text-emerald-100 p-2 uppercase flex  font-bold italic">
-            Total Grave is :  
+            Total Grave is :
             <NumberIncrementer stopNumber={graveyardDatabase.length} />
           </div>
         </div>
@@ -33,7 +35,8 @@ const Categories = () => {
             <div
               className={` text-lg py-2 px-4 rounded-md shadow-md transition duration-300 text-center ${linkClasses[0]}`}
             >
-              Graveyards <NumberIncrementer stopNumber={4} />
+              Graveyards{" "}
+              <NumberIncrementer stopNumber={GraveyardNamesArray.length} />
             </div>
           </Link>
           <Link href="/categories/Khundis">
@@ -41,7 +44,7 @@ const Categories = () => {
               className={`text-lg py-2 px-4 rounded-md shadow-md transition duration-300 text-center ${linkClasses[1]}`}
             >
               Khundis
-              <NumberIncrementer stopNumber={42} />
+              <NumberIncrementer stopNumber={khundiNamesArray.length} />
             </div>
           </Link>
         </div>

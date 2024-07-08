@@ -48,7 +48,7 @@ export default function Footer() {
           ))}
         </div>
 
-        <div className="md:flex justify-between mt-3 text-center text-gray-900">
+        <div className="md:flex justify-between mt-3 text-center md:text-gray-900 text-gray-50 ">
           <p className=" font-bold">All Rights Reserved ©</p>
           <div className=" md:flex ">
             <p>App Create And Design By - </p>
@@ -68,7 +68,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaFacebook className="  text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
+                <FaFacebook className="  md:text-gray-900 text-gray-50 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
               </Link>
 
               <Link
@@ -77,7 +77,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaWhatsapp className="  text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear" />
+                <FaWhatsapp className="  md:text-gray-900 text-gray-50 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear" />
               </Link>
 
               <Link
@@ -86,7 +86,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaTwitter className="   text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
+                <FaTwitter className="   md:text-gray-900 text-gray-50 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
               </Link>
 
               <Link
@@ -95,7 +95,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaLinkedin className="   text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
+                <FaLinkedin className="   md:text-gray-900 text-gray-50 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
               </Link>
 
               <Link
@@ -104,7 +104,7 @@ export default function Footer() {
                 className=""
                 target="_blank"
               >
-                <FaYoutube className="   text-gray-900 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
+                <FaYoutube className="   md:text-gray-900 text-gray-50 hover:text-gray-100 text-3xl hover:text-4xl delay-105 duration-100 ease-linear " />
               </Link>
             </div>
           </div>
