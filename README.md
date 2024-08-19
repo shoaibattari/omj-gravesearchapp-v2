@@ -1,6 +1,6 @@
 # Okhai Memon Jamat (OMJ) Graveyard Data Searching App v2
 
-This application allows users to search and access data for all Okhai Memon Jamat graveyards. It includes data for the following graveyards:
+This application allows users to search and access data for Okhai Memon Jamat graveyards. It includes data for the following graveyards:
 
 - **Hub River 1**
 - **Hub River 2**
@@ -13,6 +13,12 @@ This application allows users to search and access data for all Okhai Memon Jama
 - **Khundi-wise Search:** Search graves within a specific Khundi section in each graveyard.
 - **Name-wise Search:** Look up graves by entering the name of the deceased.
 - **Combined Filters:** Narrow down searches by combining criteria such as name and Khundi or graveyard section.
+
+### APP LINK
+
+[(https://omj-graveyard-2024.vercel.app)]https://omj-graveyard-2024.vercel.app/
+
+
 ### Graveyards Names List
 
 [Graveyards Names List](https://search-omjgraveyard.vercel.app/categories/Graveyards)
@@ -43,7 +49,7 @@ Users can also combine the search criteria to narrow down results further. For e
 
 To use the application, visit the following link:
 
-[visit App](https://omj-graveyard-2024.vercel.app/)
+[VISIT APP ](https://omj-graveyard-2024.vercel.app/)
 
 ## Disclaimer
 
@@ -58,4 +64,5 @@ To use the application, visit the following link:
 
 **[Linkedin](https://www.linkedin.com/in/shoaib-memon26)**
 
-**[Email](shoaibmemonit@gmail.com)**
+<br>
+Email: shoaibmemonit@gmail.com 
