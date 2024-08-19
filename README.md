@@ -52,7 +52,7 @@ To use the application, visit the following link:
 
 ## Developer Info:
 
-[Shoaib Memon](https://shoaibmemon.vercel.app/)
-[Contact Whatsaap](https://wa.me/+923232579204)
-[Linkedin](https://www.linkedin.com/in/shoaib-memon26)
-[Email](shoaibmemonit@gmail.com)
+**[Shoaib Memon](https://shoaibmemon.vercel.app/)**
+**[Contact Whatsaap](https://wa.me/+923232579204)**
+**[Linkedin](https://www.linkedin.com/in/shoaib-memon26)**
+**[Email](shoaibmemonit@gmail.com)**
