@@ -16,16 +16,16 @@ This application allows users to search and access data for Okhai Memon Jamat gr
 
 ### APP LINK
 
-[(https://search-omjgraveyard.vercel.app/)]https://search-omjgraveyard.vercel.app/
+[VISIT APP OMJ GRAVEYARD SEARCHING APP](https://omjgraveyard.vercel.app/)
 
 
 ### Graveyards Names List
 
-[Graveyards Names List](https://search-omjgraveyard.vercel.app/categories/Graveyards)
+[Graveyards Names List](https://omjgraveyard.vercel.app/categories/Graveyards)
 
 ### Khundi Names List
 
-[Khundi Names List](https://search-omjgraveyard.vercel.app/categories/Khundis)
+[Khundi Names List](https://omjgraveyard.vercel.app/categories/Khundis)
 
 ## Search Functionality
 
@@ -49,7 +49,7 @@ Users can also combine the search criteria to narrow down results further. For e
 
 To use the application, visit the following link:
 
-[VISIT APP ](https://search-omjgraveyard.vercel.app/)
+[VISIT APP ](https://omjgraveyard.vercel.app/)
 
 ## Disclaimer
 
