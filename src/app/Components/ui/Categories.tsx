@@ -20,7 +20,7 @@ const Categories = () => {
             OMJ Graveyard Searching App
           </h1>
           <p className="text-base sm:text-lg">
-            Find the resting place of your loved ones with ease and accuracy.
+          Note: Data Updated January 2025 For All Graveyards
           </p>
           <div className=" text-2xl center justify-center items-center px-1 rounded-md shadow-xl shadow-emerald-500 text-emerald-100 p-2 uppercase flex  font-bold italic">
             Total Grave is :

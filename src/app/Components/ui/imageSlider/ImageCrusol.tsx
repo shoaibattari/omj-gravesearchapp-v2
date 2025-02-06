@@ -1,6 +1,6 @@
 const images = [
   "certified-1",
-  "certified-3",
+  // "certified-3",
   "map",
   "grave-1",
   "grave-2",
@@ -14,7 +14,7 @@ import ImageSlider from "./ImageSlider";
 
 function ImageCrusol() {
   return (
-    <div className=" bg-transparent   p-6 -z-20 ">
+    <div className=" bg-transparent   p-6 -z-50 ">
       <div className="container mx-auto ">
         <ImageSlider images={images} />
       </div>

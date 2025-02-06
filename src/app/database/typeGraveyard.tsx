@@ -1,5 +1,5 @@
 export default interface GraveyardItem {
-  Id: string;
+  Id: string ;
   GraveNo: string;
   Graveyard: string;
   Name: string;
