@@ -1,11 +1,11 @@
 const images = [
   "certified-1",
-  // "certified-3",
   "map",
   "grave-1",
   "grave-2",
   "grave-4",
   "grave-6",
+  "certified-3",
   "president",
   "members",
 ];
