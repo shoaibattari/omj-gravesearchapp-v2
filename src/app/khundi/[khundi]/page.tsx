@@ -50,9 +50,9 @@ const KhundiPage: React.FC<Props> = ({ params }) => {
 
   return (
     <main className="min-h-svh ">
-      {/* <h1 className="bg-green-500 text-white text-2xl md:text-5xl font-extrabold text-center divide-x p-6 hidden md:h-20">
-        {params.khundi} Khundi Grave List
-      </h1> */}
+      <h1 className="bg-emerald-100 text-emerald-800 text-3xl hover:bg-emerald-200 hover:text-emerald-900 uppercase font-bold italic text-center divide-x p-6  md:h-20">
+        {params.khundi} Khundi
+      </h1>
 
       <div className="mb-4 md:flex md:justify-around m-2 ">
         <input
@@ -62,7 +62,7 @@ const KhundiPage: React.FC<Props> = ({ params }) => {
           onChange={handleSearchNameChange}
           className="p-1  border border-emerald-600 rounded-md mr-2 w-full text-2xl text-emerald-600 "
         />
-       
+
         <select
           value={searchTermGrave}
           onChange={handleSearchGraveChange}
@@ -77,7 +77,7 @@ const KhundiPage: React.FC<Props> = ({ params }) => {
             </option>
           ))}
         </select>
-        </div>
+      </div>
 
       {loading ? (
         <LoadingUI />

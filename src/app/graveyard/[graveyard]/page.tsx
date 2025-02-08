@@ -45,9 +45,9 @@ const GraveyardPage: React.FC<Props> = ({ params }) => {
 
   return (
     <main className="min-h-svh ">
-      {/* <h1 className="bg-emerald-400 uppercase text-gray-200 text-2xl md:text-5xl font-extrabold text-center divide-x hidden md:h-20">
-        {params.grave} Graveyard List
-      </h1> */}
+      <h1 className="bg-emerald-100 text-emerald-800 text-3xl hover:bg-emerald-200 hover:text-emerald-900 uppercase font-bold italic text-center divide-x p-6  md:h-20">
+        {params.graveyard}
+      </h1>
 
       <div className="mb-4 md:flex md:justify-center m-2">
         <input
