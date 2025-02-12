@@ -12,11 +12,9 @@ interface CommitteeMember {
   imageUrl?: string;
 }
 
-
 export const metadata: Metadata = {
   title: "Graveyard Commitee members",
-  description:
-    "Okhai Memon Jamat Graverad Commitee With members details",
+  description: "Okhai Memon Jamat Graverad Commitee With members details",
 };
 
 const currentCommitteeMembers: CommitteeMember[] = [
@@ -40,11 +38,11 @@ const currentCommitteeMembers: CommitteeMember[] = [
 const graveyardcommittee: React.FC = () => {
   return (
     <div className="mx-auto px-4 sm:px-6 lg:px-8">
-      <h2 className="text-2xl text-center uppercase md:text-5xl text-emerald-600  py-3 font-bold">
+      <h2 className="text-2xl text-center uppercase md:text-5xl text-primary  py-3 font-bold">
         <span className="text-gray-700">Graveyard</span> Committee
       </h2>
       <div className="">
-        <div className="bg-emerald-700 rounded-lg shadow-md p-3 flex items-center justify-center">
+        <div className="bg-primary rounded-lg shadow-md p-3 flex items-center justify-center">
           <Image
             src="/graveyardchairman.jpeg"
             alt="barai"
@@ -78,14 +76,14 @@ const graveyardcommittee: React.FC = () => {
       </div>
       <hr />
       <section>
-        <h2 className="text-2xl text-center uppercase md:text-5xl text-emerald-600  py-3 font-bold">
+        <h2 className="text-2xl text-center uppercase md:text-5xl text-primary  py-3 font-bold">
           <span className="text-gray-700">Current Committee </span>Members
         </h2>
         <div className="mb-2 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-4">
           {currentCommitteeMembers.map((member, index) => (
             <div
               key={index}
-              className="bg-emerald-600 rounded-lg shadow-md p-2 md:p-6"
+              className="bg-primary rounded-lg shadow-md p-2 md:p-6"
             >
               <h3 className="text-1xl md:h-14 md:text-2xl text-gray-100 font-bold mb-2">
                 {member.name}
@@ -100,7 +98,6 @@ const graveyardcommittee: React.FC = () => {
         </div>
       </section>
       <ImageCrusol />
-
     </div>
   );
 };

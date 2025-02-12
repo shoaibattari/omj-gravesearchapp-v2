@@ -44,7 +44,7 @@ const ImageSlider: FC<ImageSliderProps> = ({ images }) => {
             alt={`Slide ${index}`}
             width={1500}
             height={250}
-            className="w-full pb-6 md:pb-8 "
+            className="w-full h-96 pb-6 md:pb-8 "
           />
         </SwiperSlide>
       ))}

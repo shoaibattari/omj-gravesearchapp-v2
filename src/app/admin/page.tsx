@@ -21,7 +21,7 @@ const LoginPage = () => {
   return (
     <main>
       <div className="flex items-center justify-center h-screen">
-        <div className="bg-emerald-600 p-8 rounded shadow-md">
+        <div className="bg-primary p-8 rounded shadow-md">
           <div>
             <p className="md:text-3xl max-w-1xl font-bold m-3 text-center text-white">
               OMJ GRAVEYARD DATA APP

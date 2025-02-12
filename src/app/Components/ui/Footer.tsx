@@ -13,11 +13,11 @@ import {
 export default function Footer() {
   return (
     <>
-      <div className="   md:px-[48px] py-[16px] px-6  uppercase font-bold bg-gradient-to-r from-emerald-600 to-green-400 text-white ">
+      <div className="   md:px-[48px] py-[16px] px-6  uppercase font-bold bg-secondary/90 text-white ">
         <div className="">
-        <h2 className="text-2xl text-center uppercase md:text-3xl  text-gray-100 rounded-full md:py-3   font-bold">
-          <span className="text-gray-700"> USEFULL </span>LINKS
-        </h2>
+          <h2 className="text-2xl text-center uppercase md:text-3xl  text-gray-100 rounded-full md:py-3   font-bold">
+            <span className="text-gray-700"> USEFULL </span>LINKS
+          </h2>
         </div>
         <div className=" grid md:grid-cols-6 grid-cols-2  gap-1  text-white pb-2  font-bold">
           <p className="hover:underline">
@@ -72,7 +72,7 @@ export default function Footer() {
               </Link>
 
               <Link
-                href="https://wa.me/+923232579204"
+                href="https://wa.me/+923313416850"
                 rel="noopener noreferrer"
                 className=""
                 target="_blank"

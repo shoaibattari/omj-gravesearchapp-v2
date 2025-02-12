@@ -13,18 +13,18 @@ const CommunityMembers: React.FC = () => {
   return (
     <div className=" my-6 ">
       <div className=" mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-2xl text-center uppercase md:text-5xl text-emerald-600  py-3 font-bold">
+        <h2 className="text-2xl text-center uppercase md:text-5xl text-primary  py-3 font-bold">
           <span className="text-gray-700">Our</span> Community Members
         </h2>
         <div className="mt-0">
-          <h2 className="text-2xl text-center uppercase md:text-4xl text-emerald-600 rounded-full py-3 font-bold underline">
+          <h2 className="text-2xl text-center uppercase md:text-4xl text-primary rounded-full py-3 font-bold underline">
             <span className="text-gray-700">Office</span> Bearers
           </h2>
           <div className=" grid gap-6  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-3 ">
             {cabinetMembers.map((member, index) => (
               <div
                 key={index}
-                className="bg-emerald-600 rounded-3xl border-b border-gray-100 p-6 text-center sm:border-0 text-emerald-800 uppercase font-bold italic hover:scale-105"
+                className="bg-primary rounded-3xl border-b border-gray-100 p-6 text-center sm:border-0 text-emerald-800 uppercase font-bold italic hover:scale-105"
               >
                 <div className="grid items-center justify-center cursor-pointer  ">
                   <Image
@@ -59,14 +59,14 @@ const CommunityMembers: React.FC = () => {
       {/*  */}
       <div className=" mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mt-6">
-          <h2 className="text-2xl text-center uppercase md:text-4xl text-emerald-600 rounded-full py-3 font-bold underline">
+          <h2 className="text-2xl text-center uppercase md:text-4xl text-primary rounded-full py-3 font-bold underline">
             <span className="text-gray-700">Elected </span> Board Members
           </h2>
           <div className=" grid gap-6  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-3 ">
             {electedBoardMembers.map((member, index) => (
               <div
                 key={index}
-                className="bg-emerald-600 rounded-3xl border-b border-gray-100 p-6 text-center sm:border-0 text-emerald-800 uppercase font-bold italic hover:scale-105"
+                className="bg-primary rounded-3xl border-b border-gray-100 p-6 text-center sm:border-0 text-emerald-800 uppercase font-bold italic hover:scale-105"
               >
                 <div className="grid items-center justify-center cursor-pointer h-36   ">
                   <Image
@@ -100,14 +100,14 @@ const CommunityMembers: React.FC = () => {
       {/*  */}
       <div className=" mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mt-6">
-          <h2 className="text-2xl text-center uppercase md:text-4xl text-emerald-600 rounded-full py-3 font-bold underline">
+          <h2 className="text-2xl text-center uppercase md:text-4xl text-primary rounded-full py-3 font-bold underline">
             <span className="text-gray-700">Co-opted </span> Board Members
           </h2>
           <div className=" grid gap-6  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-3 ">
             {cooptedBoardMembers.map((member, index) => (
               <div
                 key={index}
-                className="bg-emerald-600 rounded-3xl border-b border-gray-100 p-6 text-center sm:border-0 text-emerald-800 uppercase font-bold italic hover:scale-105"
+                className="bg-primary rounded-3xl border-b border-gray-100 p-6 text-center sm:border-0 text-emerald-800 uppercase font-bold italic hover:scale-105"
               >
                 <div className="grid items-center justify-center cursor-pointer h-36  ">
                   <Image

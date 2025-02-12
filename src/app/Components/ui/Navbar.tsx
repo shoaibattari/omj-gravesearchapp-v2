@@ -48,7 +48,7 @@ const Navbar = () => {
   ];
 
   return (
-    <div className="max-w-8xl mx-auto flex justify-between sticky top-0 items-center w-full h-20 md:h-10 px-1 md:px-4 bg-emerald-600   ">
+    <div className="max-w-8xl mx-auto flex justify-between sticky top-0 items-center w-full h-20 md:h-20 px-1 md:px-4 bg-primary drop-shadow-2xl  ">
       <div className="">
         <h1 className="text-2xl font-bold md:text-1xl font-signature ml-2 md:ml-6 text-gray-50  hover:text-gray-100 ">
           <Link href="/" target="_blank">
@@ -61,7 +61,7 @@ const Navbar = () => {
         {links.map(({ id, name, link }) => (
           <li
             key={id}
-            className="nav-links px-4 cursor-pointer font-semibold  text-1xl text-gray-50 hover:scale-105 hover:text-gray-200 duration-200 link-underline"
+            className="nav-links px-4 cursor-pointer font-semibold  text-2xl text-gray-50 hover:scale-105 hover:text-gray-200 duration-200 link-underline"
           >
             <Link href={link}>{name}</Link>
           </li>

@@ -13,12 +13,12 @@ export const metadata: Metadata = {
 const MemonCommunity: React.FC = () => {
   return (
     <div className="p-6 bg-gray-100">
-      <h1 className="text-2xl md:px-6 uppercase md:text-4xl text-center text-emerald-600 rounded-full py-3 font-bold">
+      <h1 className="text-2xl md:px-6 uppercase md:text-4xl text-center text-primary rounded-full py-3 font-bold">
         <span className="text-gray-700">History to the </span> Memon Nation
       </h1>
       <div className="space-y-4">
         <section>
-          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-emerald-600 rounded-full py-3 font-bold">
+          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-primary rounded-full py-3 font-bold">
             <span className="text-gray-700">Introduction of</span> Memon Nation
           </h2>
           <p className="text-gray-700 md:px-6">
@@ -39,7 +39,7 @@ const MemonCommunity: React.FC = () => {
         </section>
 
         <section>
-          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-emerald-600 rounded-full py-3 font-bold">
+          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-primary rounded-full py-3 font-bold">
             <span className="text-gray-700">Historical</span> Background and
             Sacrifices
           </h2>
@@ -56,7 +56,7 @@ const MemonCommunity: React.FC = () => {
         </section>
 
         <section>
-          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-emerald-600 rounded-full py-3 font-bold">
+          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-primary rounded-full py-3 font-bold">
             <span className="text-gray-700">Conversion</span> to Islam
           </h2>
           <p className="text-gray-700 md:px-6">
@@ -71,7 +71,7 @@ const MemonCommunity: React.FC = () => {
         </section>
 
         <section>
-          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-emerald-600 rounded-full py-3 font-bold">
+          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-primary rounded-full py-3 font-bold">
             <span className="text-gray-700">Migration</span> and Challenges
           </h2>
           <p className="text-gray-700 md:px-6">
@@ -85,7 +85,7 @@ const MemonCommunity: React.FC = () => {
         </section>
 
         <section>
-          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-emerald-600 rounded-full py-3 font-bold">
+          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-primary rounded-full py-3 font-bold">
             <span className="text-gray-700">Memon</span> Subgroups
           </h2>
           <p className="text-gray-700 md:px-6">
@@ -93,7 +93,7 @@ const MemonCommunity: React.FC = () => {
             unique characteristics but sharing common heritage and values.
           </p>
           <div className="pl-4">
-            <h3 className="text-2xl md:px-6 uppercase md:text-2xl text-emerald-600 rounded-full py-3 font-bold">
+            <h3 className="text-2xl md:px-6 uppercase md:text-2xl text-primary rounded-full py-3 font-bold">
               <span className="text-gray-700">Halai</span> Memons
             </h3>
             <p className="text-gray-700 md:px-6">
@@ -103,7 +103,7 @@ const MemonCommunity: React.FC = () => {
               locales.
             </p>
 
-            <h3 className="text-2xl md:px-6 uppercase md:text-2xl text-emerald-600 rounded-full py-3 font-bold">
+            <h3 className="text-2xl md:px-6 uppercase md:text-2xl text-primary rounded-full py-3 font-bold">
               <span className="text-gray-700">Cutchi</span> Memons
             </h3>
             <p className="text-gray-700 md:px-6">
@@ -112,7 +112,7 @@ const MemonCommunity: React.FC = () => {
               relatively stable conditions provided by the local Rajas.
             </p>
 
-            <h3 className="text-2xl md:px-6 uppercase md:text-2xl text-emerald-600 rounded-full py-3 font-bold">
+            <h3 className="text-2xl md:px-6 uppercase md:text-2xl text-primary rounded-full py-3 font-bold">
               <span className="text-gray-700">Okhai</span> Memons
             </h3>
             <p className="text-gray-700 md:px-6">
@@ -121,7 +121,7 @@ const MemonCommunity: React.FC = () => {
               commercial activities, even during adverse conditions.
             </p>
 
-            <h3 className="text-2xl md:px-6 uppercase md:text-2xl text-emerald-600 rounded-full py-3 font-bold">
+            <h3 className="text-2xl md:px-6 uppercase md:text-2xl text-primary rounded-full py-3 font-bold">
               <span className="text-gray-700">Sindhi</span> Memons
             </h3>
             <p className="text-gray-700 md:px-6">
@@ -134,7 +134,7 @@ const MemonCommunity: React.FC = () => {
         </section>
 
         <section>
-          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-emerald-600 rounded-full py-3 font-bold">
+          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-primary rounded-full py-3 font-bold">
             <span className="text-gray-700">Socio-Economic</span> Development
           </h2>
           <p className="text-gray-700 md:px-6">
@@ -145,7 +145,7 @@ const MemonCommunity: React.FC = () => {
         </section>
 
         <section>
-          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-emerald-600 rounded-full py-3 font-bold">
+          <h2 className="text-2xl md:px-6 uppercase md:text-3xl text-primary rounded-full py-3 font-bold">
             <span className="text-gray-700">Contemporary</span> Memon Community
           </h2>
           <p className="text-gray-700 md:px-6">

@@ -20,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="  max-w-[1520px] mx-auto p-0 m-0 bg-gradient-to-r from-emerald-100 to-green-50">
+      <body className="  max-w-[1520px] mx-autobg-gradient-to-r bg-primary to-secondary">
         <Navbar />
         <AuthProvider>{children}</AuthProvider>
         <Footer />

@@ -6,7 +6,7 @@ import { graveyardDatabase } from "@/app/database/graveDatabase";
 
 function Khundis() {
   return (
-    <div className="bg-gradient-to-r from-emerald-700 to-green-300 pb-2 ">
+    <div className="bg-gradient-to-r from-primary to-secondary pb-2 ">
       <div className=" max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
         <div className="max-w-4xl mx-auto text-center ">
           <p className=" text-3xl uppercase md:text-5xl   text-white rounded-full py-3   font-bold">

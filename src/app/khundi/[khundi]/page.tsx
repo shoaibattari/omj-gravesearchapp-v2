@@ -60,13 +60,13 @@ const KhundiPage: React.FC<Props> = ({ params }) => {
           placeholder="Enter Full Name"
           value={searchTermName}
           onChange={handleSearchNameChange}
-          className="p-1  border border-emerald-600 rounded-md mr-2 w-full text-2xl text-emerald-600 "
+          className="p-1  border border-primary rounded-md mr-2 w-full text-2xl text-primary "
         />
 
         <select
           value={searchTermGrave}
           onChange={handleSearchGraveChange}
-          className="mt-2 md:mt-0 p-1 hover:bg-emerald-100 border border-emerald-600 rounded-md mr-2 w-full md:w-auto text-2xl text-emerald-600 "
+          className="mt-2 md:mt-0 p-1 hover:bg-emerald-100 border border-primary rounded-md mr-2 w-full md:w-auto text-2xl text-primary "
         >
           <option value="" selected>
             All Graveyard
@@ -82,7 +82,7 @@ const KhundiPage: React.FC<Props> = ({ params }) => {
       {loading ? (
         <LoadingUI />
       ) : filteredData.length === 0 ? (
-        <p className="text-center md:text-7xl font-extrabold text-emerald-600 uppercase h-svh">
+        <p className="text-center md:text-7xl font-extrabold text-primary uppercase h-svh">
           No matching records found.....
         </p>
       ) : (
