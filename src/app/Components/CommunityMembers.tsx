@@ -11,13 +11,13 @@ import Link from "next/link";
 
 const CommunityMembers: React.FC = () => {
   return (
-    <div className=" my-6 ">
+    <div className="bg-light ">
       <div className=" mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-2xl text-center uppercase md:text-5xl text-primary  py-3 font-bold">
+        <h2 className="text-2xl text-center uppercase md:text-5xl text-emerald-600  py-3 font-bold">
           <span className="text-gray-700">Our</span> Community Members
         </h2>
         <div className="mt-0">
-          <h2 className="text-2xl text-center uppercase md:text-4xl text-primary rounded-full py-3 font-bold underline">
+          <h2 className="text-2xl text-center uppercase md:text-4xl text-emerald-600 rounded-full py-3 font-bold underline">
             <span className="text-gray-700">Office</span> Bearers
           </h2>
           <div className=" grid gap-6  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-3 ">
@@ -59,7 +59,7 @@ const CommunityMembers: React.FC = () => {
       {/*  */}
       <div className=" mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mt-6">
-          <h2 className="text-2xl text-center uppercase md:text-4xl text-primary rounded-full py-3 font-bold underline">
+          <h2 className="text-2xl text-center uppercase md:text-4xl text-emerald-600 rounded-full py-3 font-bold underline">
             <span className="text-gray-700">Elected </span> Board Members
           </h2>
           <div className=" grid gap-6  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-3 ">
@@ -100,7 +100,7 @@ const CommunityMembers: React.FC = () => {
       {/*  */}
       <div className=" mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mt-6">
-          <h2 className="text-2xl text-center uppercase md:text-4xl text-primary rounded-full py-3 font-bold underline">
+          <h2 className="text-2xl text-center uppercase md:text-4xl text-emerald-600 rounded-full py-3 font-bold underline">
             <span className="text-gray-700">Co-opted </span> Board Members
           </h2>
           <div className=" grid gap-6  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-3 ">

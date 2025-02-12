@@ -37,7 +37,7 @@ const currentCommitteeMembers: CommitteeMember[] = [
 ];
 const graveyardcommittee: React.FC = () => {
   return (
-    <div className="mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="mx-auto px-4 sm:px-6 lg:px-8 bg-light">
       <h2 className="text-2xl text-center uppercase md:text-5xl text-primary  py-3 font-bold">
         <span className="text-gray-700">Graveyard</span> Committee
       </h2>

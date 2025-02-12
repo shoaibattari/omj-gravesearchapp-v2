@@ -1,7 +1,6 @@
-import React from 'react'
-import CommunityMembers from "../Components/CommunityMembers"
-import { Metadata } from 'next';
-
+import React from "react";
+import CommunityMembers from "../Components/CommunityMembers";
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Community members",
@@ -11,7 +10,10 @@ export const metadata: Metadata = {
 
 function page() {
   return (
-    <div><CommunityMembers /></div>
-)}
+    <div>
+      <CommunityMembers />
+    </div>
+  );
+}
 
-export default page
+export default page;
