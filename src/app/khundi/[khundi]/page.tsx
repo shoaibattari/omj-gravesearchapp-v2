@@ -82,7 +82,7 @@ const KhundiPage: React.FC<Props> = ({ params }) => {
       {loading ? (
         <LoadingUI />
       ) : filteredData.length === 0 ? (
-        <p className="text-center md:text-7xl font-extrabold text-primary uppercase h-svh">
+        <p className="text-center md:text-7xl font-extrabold text-light uppercase h-svh">
           No matching records found.....
         </p>
       ) : (
