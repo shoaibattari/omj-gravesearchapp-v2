@@ -58229,7 +58229,7 @@ export let graveyardDatabase: GraveyardItem[] = [
     Id: "7279",
     GraveNo: "697",
     Graveyard: "hubriver2",
-    Name: "HAJI ZUBAIDA ABDUL SATTAR",
+    Name: "HAJIANI ZUBAIDA ABDUL SATTAR",
     KHUNDI: "PASTA",
     DOD: "12-Oct-24",
   },
